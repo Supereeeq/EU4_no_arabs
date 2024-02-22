@@ -1,4 +1,4 @@
 government = republic
-technology_group = anatolian
+technology_group = ottoman
 primary_culture = kurdish
 capital = 	411	 #Mosul
