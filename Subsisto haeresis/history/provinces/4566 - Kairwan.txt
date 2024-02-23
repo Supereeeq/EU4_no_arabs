@@ -1,0 +1,17 @@
+# - Kairwan
+owner = VAN
+controller = VAN 
+culture = tunisian
+religion = sunni
+capital = "Kairwan"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+is_city = yes
+add_core = VAN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
