@@ -743,7 +743,7 @@ BAR	= "countries/Bar.txt"
 HSA	= "countries/Hansa.txt"
 SMO = "countries/Smolensk.txt"
 NZH = "countries/NizhnyNovgorod.txt"
-KOJ = "countries/Jerusalem.txt"
+JER = "countries/Jerusalem.txt"
 MSA = "countries/Malaya.txt"
 HIN = "countries/Hindustan.txt"
 
