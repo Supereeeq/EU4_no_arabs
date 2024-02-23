@@ -5,7 +5,7 @@ ASY = "countries/Assyria.txt"
 MAK = "countries/Makuria.txt"
 CYR = "countries/Cyraneica.txt"
 UEG = "countries/Upper_Egypt.txt"
-
+JUD = "countries/Judham.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
