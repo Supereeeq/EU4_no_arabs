@@ -1,0 +1,17 @@
+#2797 - Shendy
+
+owner = MAK
+controller = MAK
+add_core = MAK
+culture = nubian
+religion = sunni
+capital = "Shendy"
+is_city = yes
+trade_goods = grain
+base_manpower = 2
+base_tax = 1 
+base_production = 1
+hre = no
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
