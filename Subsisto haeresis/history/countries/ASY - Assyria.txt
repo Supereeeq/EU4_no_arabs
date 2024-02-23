@@ -1,4 +1,4 @@
 government = republic
 technology_group = ottoman
 primary_culture = al_iraqiya_arabic
-capital = 	412	 #Mosul
+capital = 	410

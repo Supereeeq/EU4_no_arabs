@@ -2,7 +2,6 @@
 KRD = "countries/Kurdistan.txt"
 JER = "countries/Jerusalem.txt"
 ASY = "countries/Assyria.txt"
-MAK = "countries/Makuria.txt"
 
 
 # Special countries..
@@ -293,6 +292,7 @@ GRM = "countries/Germiyan.txt"
 HDR = "countries/Hadramut.txt"
 HED	= "countries/Hedjaz.txt"
 LEB = "countries/Lebanon.txt"
+MAK = "countries/Makuria.txt"
 MDA = "countries/Medina.txt"
 MFL = "countries/Mikhlaf.txt"
 MHR = "countries/Mahra.txt"
