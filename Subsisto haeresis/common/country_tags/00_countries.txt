@@ -3,6 +3,7 @@ KRD = "countries/Kurdistan.txt"
 JER = "countries/Jerusalem.txt"
 ASY = "countries/Assyria.txt"
 MAK = "countries/Makuria.txt"
+CYR = "countries/Cyraneica.txt"
 
 
 # Special countries..
