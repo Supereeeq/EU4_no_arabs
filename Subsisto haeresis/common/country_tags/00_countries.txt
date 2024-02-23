@@ -1,5 +1,6 @@
 #Modded countries
 KRD = "countries/Kurdistan.txt"
+JER = "countries/Jerusalem.txt"
 
 
 # Special countries..
@@ -743,7 +744,6 @@ BAR	= "countries/Bar.txt"
 HSA	= "countries/Hansa.txt"
 SMO = "countries/Smolensk.txt"
 NZH = "countries/NizhnyNovgorod.txt"
-JER = "countries/Jerusalem.txt"
 MSA = "countries/Malaya.txt"
 HIN = "countries/Hindustan.txt"
 

@@ -1,7 +1,7 @@
 #377 - Aleppo
 
-owner = JER
-controller = JER
+owner = KRD
+controller = KRD
 culture = al_suryah_arabic
 religion = sunni
 capital = "Halab"
@@ -11,7 +11,7 @@ base_tax = 9
 base_production = 9
 base_manpower = 4
 is_city = yes
-add_core = JER
+add_core = KRD
 fort_15th = yes
 discovered_by = east_african
 discovered_by = muslim

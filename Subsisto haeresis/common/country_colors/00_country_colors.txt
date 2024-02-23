@@ -6,18 +6,6 @@
     # color3= { 70 50 40  } #Up to 10% -> try map color here
 # }
 
-# Yugoslavia
-YGS = {
-    color1= { 245 113 85 }
-    color2= { 218 91 63 }
-    color3= { 175 55 30  }
-}
-
-YGM = {
-	color1= {120 50 230}
-	color2= {100 40 200}
-	color3= {80 15 190}
-}
 
 # Sweden FIXED
 SWE = {
