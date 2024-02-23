@@ -4,6 +4,7 @@ JER = "countries/Jerusalem.txt"
 ASY = "countries/Assyria.txt"
 MAK = "countries/Makuria.txt"
 CYR = "countries/Cyraneica.txt"
+UEG = "countries/Upper_Egypt.txt"
 
 
 # Special countries..
