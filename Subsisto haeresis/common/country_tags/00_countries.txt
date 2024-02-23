@@ -1,6 +1,7 @@
 #Modded countries
 KRD = "countries/Kurdistan.txt"
 JER = "countries/Jerusalem.txt"
+ASY = "countries/Assyria.txt"
 
 
 # Special countries..

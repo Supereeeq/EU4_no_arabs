@@ -2,17 +2,25 @@
 
 #tags
 
- KRD: "Kurdistan"
- KRD_ADJ: "Kurdistan"
- 
- KRD_ideas: "Kurdish Ideas"
- KRD_ideas_start: "Kurdish Traditions"
- KRD_desc: "Kurdistan is country in middle east, composed of terrains of syria, Iraq, turkey and Iran. Currently Kurds are bravely fighting for their freedom."
+    KRD: "Kurdistan"
+    KRD_ADJ: "Kurdistan"
+     
+    KRD_ideas: "Kurdish Ideas"
+    KRD_ideas_start: "Kurdish Traditions"
+    KRD_desc: "Kurdistan is country in middle east, composed of terrains of syria, Iraq, turkey and Iran. Currently Kurds are bravely fighting for their freedom."
 
 
- JER: "Jerusalem"
- JER_ADJ: "Jerusalem"
- 
- JER_ideas: "Jerusalem Ideas"
- JER_ideas_start: "Jerusalem Traditions"
- JER_desc: "We fight for the glory of god and we win by the grace of GOD."
+    JER: "Jerusalem"
+    JER_ADJ: "Jerusalem"
+     
+    JER_ideas: "Jerusalem Ideas"
+    JER_ideas_start: "Jerusalem Traditions"
+    JER_desc: "We fight for the glory of god and we win by the grace of GOD."
+     
+     
+    ASY: "Assyria"
+    ASY_ADJ: "Assyria"
+
+    ASY_ideas: "Assyrian Ideas"
+    ASY_ideas_start: "Assyrian Traditions"
+    ASY_desc: "Assyria is remnant of the old and powerfull empire which for a while ruled much of the Middle East"
