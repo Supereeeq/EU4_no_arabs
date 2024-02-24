@@ -10,6 +10,7 @@ VAN = "countries/Vandal_Kingdom.txt"
 TAY = "countries/Tayy.txt"
 MDN = "countries/Medyna.txt"
 BAI = "countries/Bali.txt"
+ASD = "countries/Asad.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
