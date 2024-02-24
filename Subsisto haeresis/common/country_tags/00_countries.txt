@@ -13,6 +13,7 @@ BAI = "countries/Bali.txt"
 ASD = "countries/Asad.txt"
 NUY = "countries/Numayr.txt"
 TAM = "countries/Tamim.txt"
+KAB = "countries/Ka'b.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"

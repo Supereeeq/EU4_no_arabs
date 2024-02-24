@@ -71,7 +71,7 @@
     BAI_desc: "Bali is small bedouin tribe"
 
     MDN: "Medina"
-    MDN: "Medina"
+    MDN_ADJ: "Medina"
 
 
     MDN_ideas: "Medina Ideas"
@@ -79,7 +79,7 @@
     MDN_desc: "Medina is small bedouin tribe"
 
     ASD: "Asad"
-    ASD: "Asad"
+    ASD_ADJ: "Asad"
 
 
     ASD_ideas: "Asad Ideas"
@@ -95,9 +95,17 @@
     NUY_desc: "Numayr is small bedouin tribe"
 
     TAM: "Tamim"
-    TAM: "Tamim"
+    TAM_ADJ: "Tamim"
 
 
     TAM_ideas: "Tamim Ideas"
     TAM_ideas_start: "Tamim Traditions"
     TAM_desc: "Tamim is small bedouin tribe"
+
+    KAB: "Ka'b"
+    KAB_ADJ: "Ka'b"
+
+
+    KAB_ideas: "TKa'b Ideas"
+    KAB_ideas_start: "Ka'b Traditions"
+    KAB_desc: "Ka'b is small bedouin tribe"
