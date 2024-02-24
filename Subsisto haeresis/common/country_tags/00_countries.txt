@@ -8,6 +8,7 @@ UEG = "countries/Upper_Egypt.txt"
 JUD = "countries/Judham.txt"
 VAN = "countries/Vandal_Kingdom.txt"
 TAY = "countries/Tayy.txt"
+MDN = "countries/Medyna.txt"
 BAI = "countries/Bali.txt"
 
 # Special countries..

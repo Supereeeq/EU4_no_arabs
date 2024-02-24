@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 
-primary_culture = cosmopolitan_french
+primary_culture = ottoman
 religion = catholic
-technology_group = eastern
-capital = 341
+technology_group = ottoman
+capital = 384
