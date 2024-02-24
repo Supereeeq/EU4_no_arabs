@@ -11,6 +11,7 @@ TAY = "countries/Tayy.txt"
 MDN = "countries/Medyna.txt"
 BAI = "countries/Bali.txt"
 ASD = "countries/Asad.txt"
+NUY = "countries/Numayr.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
