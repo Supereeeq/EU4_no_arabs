@@ -20,7 +20,7 @@ MHA = "countries/Mahra.txt"
 EPI	= "countries/Epirus.txt"
 MAF = "countries/Ma'afir.txt"
 NIC = "countries/Nicea.txt"
-
+UQA = "countries/Uqayl.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
