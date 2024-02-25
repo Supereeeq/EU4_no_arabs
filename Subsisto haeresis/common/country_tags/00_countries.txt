@@ -15,6 +15,7 @@ NUY = "countries/Numayr.txt"
 TAM = "countries/Tamim.txt"
 KAB = "countries/Ka'b.txt"
 ABQ = "countries/Abdul Quaya.txt"
+AZD = "countries/Azd.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
