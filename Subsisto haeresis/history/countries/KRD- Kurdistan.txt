@@ -1,5 +1,0 @@
-government = republic
-technology_group = ottoman
-religion = catholic
-primary_culture = kurdish
-capital = 	411	 #Mosul
