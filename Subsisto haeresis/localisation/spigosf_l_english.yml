@@ -144,6 +144,15 @@
     MAF_ideas_start: "Ma'afir Traditions"
     MAF_desc: "Ma'afir is small bedouin tribe"
 
+
+    UQAA: "Uqayl"
+    UQAA_ADJ: "Uqayl"
+
+
+    UQAA_ideas: "Uqayl Ideas"
+    UQAA_ideas_start: "Uqayl Traditions"
+    UQAA_desc: "Uqayl is small bedouin tribe"
+
     ### Religion 
 
     jerusalem: "Jerusalem"
