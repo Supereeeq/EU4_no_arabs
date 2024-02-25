@@ -18,6 +18,7 @@ ABQ = "countries/Abdul Quaya.txt"
 AZD = "countries/Azd.txt"
 MHA = "countries/Mahra.txt"
 EPI	= "countries/Epirus.txt"
+MAF = "countries/Ma'afir.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"

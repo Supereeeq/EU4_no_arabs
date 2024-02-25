@@ -134,9 +134,16 @@
     MHA_ideas: "Mahra Ideas"
     MHA_ideas_start: "Mahra Traditions"
     MHA_desc: "Mahra is small bedouin tribe"
-    
-    
-    
-    ###Religion
-    
+
+
+    MAF: "Ma'afir"
+    MAF_ADJ: "Ma'afir"
+
+
+    MAF_ideas: "Ma'afirian Ideas"
+    MAF_ideas_start: "Ma'afir Traditions"
+    MAF_desc: "Ma'afir is small bedouin tribe"
+
+    ### Religion 
+
     jerusalem: "Jerusalem"

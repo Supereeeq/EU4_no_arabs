@@ -3,7 +3,7 @@
 owner = VAN
 controller = VAN
 culture = sicilian 
-religion = jerusalem 
+religion = jerusalem
 hre = no 
 base_tax = 6 
 base_production = 6
