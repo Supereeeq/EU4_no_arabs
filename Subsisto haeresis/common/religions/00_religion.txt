@@ -856,7 +856,7 @@ christian = {
 	###ADDED IN MOD
 	
 	
-		New Jerusalem = {
+		jerusalem = {
 		color = { 200 240 220 }
 		icon = 4
 		country = {
