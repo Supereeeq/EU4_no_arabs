@@ -19,6 +19,8 @@ AZD = "countries/Azd.txt"
 MHA = "countries/Mahra.txt"
 EPI	= "countries/Epirus.txt"
 MAF = "countries/Ma'afir.txt"
+NIC = "countries/Nicea.txt"
+
 
 # Special countries..
 REB = "countries/Rebels.txt"

@@ -143,6 +143,15 @@
     MAF_ideas: "Ma'afirian Ideas"
     MAF_ideas_start: "Ma'afir Traditions"
     MAF_desc: "Ma'afir is small bedouin tribe"
+    
+    
+    NIC: "Nicea"
+    NIC_ADJ: "Nicean"
+     
+    NIC_ideas: "Nicean Ideas"
+    NIC_ideas_start: "Nicean Traditions"
+    NIC_desc: "Nicea is a noble led nation that hopes to claim title of the one true Roman emperor"
+    
 
     ### Religion 
 
