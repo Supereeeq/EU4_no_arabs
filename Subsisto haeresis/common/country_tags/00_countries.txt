@@ -23,6 +23,7 @@ NIC = "countries/Nicea.txt"
 UQA = "countries/Uqayl.txt"
 KHU = "countries/Khuza' ah.txt"
 HUD = "countries/Hudhayl.txt"
+MID = "countries/Midbbaj.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"

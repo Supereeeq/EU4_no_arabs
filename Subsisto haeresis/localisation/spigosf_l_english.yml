@@ -181,6 +181,16 @@
     HUD_ideas: "Hudhayl Ideas"
     HUD_ideas_start: "Hudhayl Traditions"
     HUD_desc: "Hudhayl is small bedouin tribe"
+            
+
+
+    MID: "Midbbaj"
+    MID_ADJ: "Midbbaj"
+
+
+    MID_ideas: "HMidbbaj Ideas"
+    MID_ideas_start: "Midbbaj Traditions"
+    MID_desc: "Midbbaj is small bedouin tribe"
 
     ### Religion 
 
