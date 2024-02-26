@@ -161,6 +161,26 @@
     UQA_ideas: "Uqayl Ideas"
     UQA_ideas_start: "Uqayl Traditions"
     UQA_desc: "Uqayl is small bedouin tribe"
+        
+
+
+    KHU: "Khuza' ah"
+    KHU_ADJ: "Khuza' ah"
+
+
+    KHU_ideas: "Khuza' ah Ideas"
+    KHU_ideas_start: "Khuza' ah Traditions"
+    KHU_desc: "Khuza' ah is small bedouin tribe"
+        
+
+
+    HUD: "Hudhayl"
+    HUD_ADJ: "Hudhayl"
+
+
+    HUD_ideas: "Hudhayl Ideas"
+    HUD_ideas_start: "Hudhayl Traditions"
+    HUD_desc: "Hudhayl is small bedouin tribe"
 
     ### Religion 
 

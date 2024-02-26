@@ -21,6 +21,8 @@ EPI	= "countries/Epirus.txt"
 MAF = "countries/Ma'afir.txt"
 NIC = "countries/Nicea.txt"
 UQA = "countries/Uqayl.txt"
+KHU = "countries/Khuza' ah.txt"
+HUD = "countries/Hudhayl.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
