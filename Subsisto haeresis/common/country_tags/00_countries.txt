@@ -24,6 +24,8 @@ UQA = "countries/Uqayl.txt"
 KHU = "countries/Khuza' ah.txt"
 HUD = "countries/Hudhayl.txt"
 MID = "countries/Midbbaj.txt"
+THQ = "countries/Thaqif.txt"
+HAZ = "countries/Hawazin.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"

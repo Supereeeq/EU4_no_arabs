@@ -191,6 +191,27 @@
     MID_ideas: "HMidbbaj Ideas"
     MID_ideas_start: "Midbbaj Traditions"
     MID_desc: "Midbbaj is small bedouin tribe"
+                
+
+
+    THQ: "Thaqif"
+    THQ_ADJ: "Thaqif"
+
+
+    THQ_ideas: "Thaqif Ideas"
+    THQ_ideas_start: "Thaqif Traditions"
+    THQ_desc: "Thaqif is small bedouin tribe"
+                    
+
+
+    HAZ: "Hawazin"
+    HAZ_ADJ: "Hawazin"
+
+
+    HAZ_ideas: "Hawazin Ideas"
+    HAZ_ideas_start: "Hawazin Traditions"
+    HAZ_desc: "Hawazin is small bedouin tribe"
+
 
     ### Religion 
 
