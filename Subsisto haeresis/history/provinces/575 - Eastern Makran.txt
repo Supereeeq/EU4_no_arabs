@@ -1,0 +1,15 @@
+#575 - Eastern Makran
+
+owner = SAS
+controller = SAS
+culture = baluchi
+religion = sunni
+capital = "Gwadar"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = SAS
+add_local_autonomy = 25
