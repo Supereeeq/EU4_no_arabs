@@ -221,6 +221,28 @@
     SAS_ideas: "Sassanid Ideas"
     SAS_ideas_start: "Sassanid Traditions"
     SAS_desc: "Sassanid is remnant of old empire. Unfortunetly now the country is in crisis but once it will leave it there will be one of the most powerful "
+                        
+
+
+    COH: "Colchis"
+    COH_ADJ: "Colchis"
+
+
+    COH_ideas: "Colchis Ideas"
+    COH_ideas_start: "Colchis Traditions"
+    COH_desc: ""
+                        
+
+
+    PHY: "Phyrgia"
+    PHY_ADJ: "Phyrgian"
+
+
+    PHY_ideas: "Phyrgian Ideas"
+    PHY_ideas_start: "Phyrgian Traditions"
+    PHY_desc: ""
+
+
 
 
     ### Religion 

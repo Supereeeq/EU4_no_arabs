@@ -27,6 +27,8 @@ MID = "countries/Midbbaj.txt"
 THQ = "countries/Thaqif.txt"
 HAZ = "countries/Hawazin.txt"
 SAS = "countries/Sasanid_Empire.txt"
+COH = "countries/Colchis.txt"
+PHY = "countries/Phyrgia.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
