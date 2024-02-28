@@ -243,6 +243,14 @@
     PHY_desc: ""
 
 
+    VIS: "Visgoth Kingdom"
+    VIS_ADJ: "Visgoths"
+     
+    VIS_ideas: "Visigothian Ideas"
+    VIS_ideas_start: "Visigothian Traditions"
+    VIS_desc: ""
+
+
 
 
     ### Religion 

@@ -1,0 +1,19 @@
+#230 - Algarve
+
+owner = VIS
+controller = VIS
+culture = portugese
+religion = catholic
+capital = "Faro"
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes 
+add_core = VIS
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

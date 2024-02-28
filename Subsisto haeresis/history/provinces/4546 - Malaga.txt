@@ -1,0 +1,19 @@
+#223 - Granada
+
+owner = VIS
+controller = VIS
+add_core = VIS
+culture = andalucian
+religion = sunni
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = salt
+base_manpower = 1
+fort_15th = yes
+capital = "Malaga"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
