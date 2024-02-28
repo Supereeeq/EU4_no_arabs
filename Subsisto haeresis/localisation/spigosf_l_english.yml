@@ -241,14 +241,17 @@
     PHY_ideas: "Phyrgian Ideas"
     PHY_ideas_start: "Phyrgian Traditions"
     PHY_desc: ""
+                        
 
 
-    VIS: "Visgoth Kingdom"
-    VIS_ADJ: "Visgoths"
-     
-    VIS_ideas: "Visigothian Ideas"
-    VIS_ideas_start: "Visigothian Traditions"
-    VIS_desc: ""
+    CAR: "Caria"
+    CAR_ADJ: "Carian"
+
+
+    CAR_ideas: "Carian Ideas"
+    CAR_ideas_start: "Carian Traditions"
+    CAR_desc: ""
+
 
 
 
