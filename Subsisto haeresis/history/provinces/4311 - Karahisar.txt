@@ -1,17 +1,18 @@
-#4309 - Aydin
+#4311 - Karahisar
 
-owner = NIC
-controller = NIC
+owner = CAR
+controller = CAR
 culture = turkish
 religion = sunni
-capital = "Aydin"
-trade_goods = salt #Major Ottoman Salt Work
+capital = "Karahisar"
+trade_goods = livestock
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = NIC
+add_core = CAR
+add_core = GRM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -30,6 +30,7 @@ SAS = "countries/Sasanid_Empire.txt"
 COH = "countries/Colchis.txt"
 PHY = "countries/Phyrgia.txt"
 CAR = "countries/Caria.txt"
+VIS = "countries/Visgoths.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"

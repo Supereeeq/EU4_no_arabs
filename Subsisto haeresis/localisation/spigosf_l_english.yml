@@ -251,6 +251,15 @@
     CAR_ideas: "Carian Ideas"
     CAR_ideas_start: "Carian Traditions"
     CAR_desc: ""
+    
+    
+    VIS: "Visigoths"
+    VIS_ADJ: "Visigothic"
+     
+    VIS_ideas: "Visigothic Ideals"
+    VIS_ideas_start: "Visigothic Customs"
+    VIS_desc: "The Visigoths are a proud people with a rich heritage, aspiring to restore the glory of their ancient kingdom."
+
 
 
 
