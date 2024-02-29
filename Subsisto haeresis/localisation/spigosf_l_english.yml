@@ -259,6 +259,16 @@
     VIS_ideas: "Visigothic Ideals"
     VIS_ideas_start: "Visigothic Customs"
     VIS_desc: "The Visigoths are a proud people with a rich heritage, aspiring to restore the glory of their ancient kingdom."
+    
+    
+    LTV: "Altava"
+    LTV_ADJ: "Altava"
+     
+    LTV_ideas: "Altava Ideals"
+    LTV_ideas_start: "Altava Customs"
+    LTV_desc: "Altava is berber country located near Atlas mountains"
+
+
 
 
 
