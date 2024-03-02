@@ -283,11 +283,14 @@
     CAA_ideas: "Cabaon Ideals"
     CAA_ideas_start: "Cabaon  Customs"
     CAA_desc: "Cabaon is berber country"
-
-
-
-
-
+                
+    
+    BAG: "Barghawata"
+    BAG_ADJ: "Barghawata"
+     
+    BAG_ideas: "Barghawata Ideals"
+    BAG_ideas_start: "Barghawata Customs"
+    BAG_desc: "Barghawata is berber country located in region of Maghreb"
 
 
 

@@ -1,0 +1,22 @@
+#343 - Fez
+
+owner = BAG
+controller = BAG
+culture = moroccan
+religion = sunni
+capital = "Fez"
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+add_core =  BAG
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
