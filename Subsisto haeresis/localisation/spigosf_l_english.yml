@@ -267,6 +267,14 @@
     LTV_ideas: "Altava Ideals"
     LTV_ideas_start: "Altava Customs"
     LTV_desc: "Altava is berber country located near Atlas mountains"
+        
+    
+    MUS: "Musulamii"
+    MUS_ADJ: "Musulamian"
+     
+    MUS_ideas: "Musulamian Ideals"
+    MUS_ideas_start: "Musulamian  Customs"
+    MUS_desc: "AMusulamii is berber country located near Atlas mountains"
 
 
 

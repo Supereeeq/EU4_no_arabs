@@ -32,6 +32,7 @@ PHY = "countries/Phyrgia.txt"
 CAR = "countries/Caria.txt"
 VIS = "countries/Visgoths.txt"
 LTV = "countries/Altava.txt"
+MUS = "countries/Musulamii.txt"
 
 # Special countries..
 REB = "countries/Rebels.txt"
