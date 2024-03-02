@@ -274,7 +274,16 @@
      
     MUS_ideas: "Musulamian Ideals"
     MUS_ideas_start: "Musulamian  Customs"
-    MUS_desc: "AMusulamii is berber country located near Atlas mountains"
+    MUS_desc: "Musulamii is berber country located near Atlas mountains"
+            
+    
+    CAA: "Cabaon"
+    CAA_ADJ: "Cabaon"
+     
+    CAA_ideas: "Cabaon Ideals"
+    CAA_ideas_start: "Cabaon  Customs"
+    CAA_desc: "Cabaon is berber country"
+
 
 
 

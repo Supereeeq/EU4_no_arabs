@@ -1,0 +1,15 @@
+#355 - Sirt
+
+owner = CAA
+controller = CAA
+culture = tunisian
+religion = sunni
+capital = "Ben Jawad"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = CAA
+add_local_autonomy = 25

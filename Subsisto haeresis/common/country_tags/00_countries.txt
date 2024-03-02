@@ -33,6 +33,7 @@ CAR = "countries/Caria.txt"
 VIS = "countries/Visgoths.txt"
 LTV = "countries/Altava.txt"
 MUS = "countries/Musulamii.txt"
+CAA = "countries/Cabaon.txt" 
 
 # Special countries..
 REB = "countries/Rebels.txt"
