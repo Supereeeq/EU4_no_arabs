@@ -35,6 +35,7 @@ LTV = "countries/Altava.txt"
 MUS = "countries/Musulamii.txt"
 CAA = "countries/Cabaon.txt" 
 BAG = "countries/Barghawata.txt" 
+ZAW = "countries/Zawiya.txt" 
 
 # Special countries..
 REB = "countries/Rebels.txt"

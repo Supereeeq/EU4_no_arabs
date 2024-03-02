@@ -291,7 +291,14 @@
     BAG_ideas: "Barghawata Ideals"
     BAG_ideas_start: "Barghawata Customs"
     BAG_desc: "Barghawata is berber country located in region of Maghreb"
-
+                
+    
+    ZAW: "Zawiya"
+    ZAW_ADJ: "Zawiyan"
+     
+    ZAW_ideas: "Zawiyan Ideals"
+    ZAW_ideas_start: "Zawiyan Customs"
+    ZAW_desc: "Zawiya is berber country located in region of Maghreb"
 
 
 
