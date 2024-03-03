@@ -858,7 +858,7 @@ christian = {
 	
 		jerusalem = {
 		color = { 200 240 220 }
-		icon = 4
+		icon = 30
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
