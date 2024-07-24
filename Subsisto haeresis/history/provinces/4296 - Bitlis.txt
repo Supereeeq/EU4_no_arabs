@@ -1,9 +1,8 @@
-#4396 - Bitlis and Hakkari
-
+#4396 - Bitlis and Hakkari=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Bitlis"
 trade_goods = wool
 hre = no

@@ -1,9 +1,8 @@
-#421 - Shirvan
-
+#421 - Shirvan=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Baku"
 trade_goods = silk #And Salt and Petroleum
 hre = no

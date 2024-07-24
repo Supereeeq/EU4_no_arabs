@@ -1,9 +1,8 @@
-# - Meknes
-
+# - Meknes=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Meknes"
 trade_goods = cloth
 hre = no
@@ -12,9 +11,6 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_core = BAG
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

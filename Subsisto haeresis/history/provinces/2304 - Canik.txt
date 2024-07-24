@@ -1,9 +1,8 @@
-#2304 - Canik
-
+#2304 - Canik=
 owner = TRE
 controller = TRE
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Samsun"
 trade_goods = wine
 hre = no

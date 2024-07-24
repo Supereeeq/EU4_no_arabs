@@ -1,9 +1,8 @@
-#4394 - Sulimaniyeh
-
+#4394 - Sulimaniyeh=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Sulimaniyeh"
 trade_goods = wool
 hre = no

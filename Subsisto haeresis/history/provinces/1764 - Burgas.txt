@@ -1,5 +1,4 @@
-#1764 - Burgas
-
+#1764 - Burgas=
 owner = BYZ
 controller = BYZ
 culture = bulgarian

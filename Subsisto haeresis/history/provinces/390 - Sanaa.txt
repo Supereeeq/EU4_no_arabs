@@ -1,9 +1,8 @@
-#390 - Sana'a
-
+#390 - Sana'a=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = shiite
+religion = jerusalem
 capital = "Sana'a"
 trade_goods = wool
 hre = no

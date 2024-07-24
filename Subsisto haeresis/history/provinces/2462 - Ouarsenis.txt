@@ -1,9 +1,8 @@
-# - Ouarsenis
-
+# - Ouarsenis=
 owner = LTV
 controller = LTV
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Ouarsenis"
 trade_goods = livestock
 hre = no

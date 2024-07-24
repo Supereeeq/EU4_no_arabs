@@ -1,9 +1,8 @@
-#4342 - Malamir
-
+#4342 - Malamir=
 owner = SAS
 controller = SAS
 culture = luri
-religion = shiite
+religion = jerusalem
 capital = "Malamir"
 trade_goods = wool
 hre = no

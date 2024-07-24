@@ -1,9 +1,8 @@
-#382 - Damascus
-
+#382 - Damascus=
 owner = JER
 controller = JER
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Dimashq"
 trade_goods = iron
 hre = no

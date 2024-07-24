@@ -1,7 +1,6 @@
-#1220 - Dar Ja'al
-
+#1220 - Dar Ja'al=
 culture = nubian 
-religion = sunni
+religion = jerusalem
 capital = "Bayuda"
 owner = MAK
 controller = MAK

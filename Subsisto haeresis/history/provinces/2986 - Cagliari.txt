@@ -1,13 +1,11 @@
-# 2986 - Cagliari
-
+# 2986 - Cagliari=
 latent_trade_goods = {
-	coal
-}
-
+	coal=
+}=
 owner = VAN
 controller = VAN
 culture = sardinian 
-religion = catholic 
+religion = jerusalem
 hre = no 
 base_tax = 3
 base_production = 3
@@ -16,7 +14,6 @@ base_manpower = 1
 capital = "Cagliari" 
 is_city = yes # Estimated 
 add_core = VAN
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

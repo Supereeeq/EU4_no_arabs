@@ -1,9 +1,8 @@
-#4287 - Ibra
-
+#4287 - Ibra=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Ibra"
 trade_goods = grain
 hre = no

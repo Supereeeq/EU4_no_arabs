@@ -1,9 +1,8 @@
-#404 - Liwa
-
+#404 - Liwa=
 owner = AZD
 controller = AZD
 culture = gulf_arabic
-religion = sunni
+religion = jerusalem
 capital = "Liwa"
 trade_goods = spices #Dates
 hre = no

@@ -1,9 +1,8 @@
-#4286 - Sur, Qalhat, etc
-
+#4286 - Sur, Qalhat, etc=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Qalhat"
 trade_goods = spices
 hre = no

@@ -1,9 +1,8 @@
-#340 - Constantine
-
+#340 - Constantine=
 owner = VAN
 controller = VAN 
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Constantine"
 trade_goods = grain
 hre = no

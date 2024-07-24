@@ -1,10 +1,9 @@
-#222 - Almería
-
+#222 - Almería=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = andalucian
-religion = sunni
+religion = jerusalem
 hre = no
 base_tax = 2 
 base_production = 2

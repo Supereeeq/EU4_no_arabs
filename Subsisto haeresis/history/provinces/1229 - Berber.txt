@@ -1,7 +1,6 @@
-#1229 - Berber
-
+#1229 - Berber=
 culture = beja 
-religion = sunni
+religion = jerusalem
 capital = "Berber"
 native_size = 50
 native_ferocity = 4
@@ -14,7 +13,6 @@ base_production = 1
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
-
 owner = MAK
 controller = MAK
 add_core = MAK

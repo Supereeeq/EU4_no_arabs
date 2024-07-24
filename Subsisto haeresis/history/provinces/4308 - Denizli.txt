@@ -1,9 +1,8 @@
-#4308 - Denizli
-
+#4308 - Denizli=
 owner = CAR
 controller = CAR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Denizli"
 trade_goods = cloth
 hre = no

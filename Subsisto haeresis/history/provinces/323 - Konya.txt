@@ -1,9 +1,8 @@
-#323 - Konya
-
+#323 - Konya=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Konya"
 trade_goods = salt
 hre = no

@@ -1,9 +1,8 @@
-#2329 - Yanbu
-
+#2329 - Yanbu=
 owner = MDN
 controller = MDN
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Yanbu"
 trade_goods = cloth
 hre = no

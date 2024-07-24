@@ -1,9 +1,8 @@
-#415 - Sharazor
-
+#415 - Sharazor=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Kirkuk"
 trade_goods = grain
 hre = no

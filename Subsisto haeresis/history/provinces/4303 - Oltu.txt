@@ -1,5 +1,4 @@
-#4303 - Oltu
-
+#4303 - Oltu=
 owner = COH
 controller = COH
 culture = georgian

@@ -1,9 +1,8 @@
-#2331 - Jeddah
-
+#2331 - Jeddah=
 owner = KHU
 controller = KHU
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Jiddah"
 trade_goods = incense
 hre = no

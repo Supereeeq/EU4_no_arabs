@@ -1,9 +1,8 @@
-#2303 - Malatya
-
+#2303 - Malatya=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = shiite
+religion = orthodox
 capital = "Malatiya"
 trade_goods = cloth
 hre = no

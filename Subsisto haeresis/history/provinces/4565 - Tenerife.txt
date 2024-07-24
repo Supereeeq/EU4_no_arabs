@@ -1,5 +1,4 @@
-#tenerife
-
+#tenerife=
 capital = "Tenerife"
 trade_goods = unknown
 hre = no
@@ -9,5 +8,5 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 0
-religion = animism
+religion = jerusalem
 culture = berber

@@ -1,9 +1,8 @@
-#2216 - Semnan
-
+#2216 - Semnan=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Semnan"
 trade_goods = gems #Turquoise
 hre = no

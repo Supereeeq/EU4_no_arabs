@@ -1,9 +1,8 @@
-# - Ouargla
-
+# - Ouargla=
 owner = MUS
 controller = MUS
 culture = berber
-religion = ibadi
+religion = jerusalem
 capital = "Ouargla"
 trade_goods = slaves
 hre = no
@@ -12,10 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = MUS
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-

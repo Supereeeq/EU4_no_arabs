@@ -1,9 +1,8 @@
-#1846 - Amasya
-
+#1846 - Amasya=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Amasya"
 trade_goods = paper #and iron
 hre = no
@@ -12,9 +11,6 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = PHY
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

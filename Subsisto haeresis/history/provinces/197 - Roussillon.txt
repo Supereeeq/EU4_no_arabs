@@ -1,12 +1,11 @@
-# 197 Roussillon - Principal cities: Perpignan
-
+# 197 Roussillon - Principal cities: Perpignan=
 owner = VIS
 controller = VIS
 add_core = VIS
 capital = "Perpignan"
 is_city = yes
 culture = catalan
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3 
 base_production = 3
@@ -15,7 +14,6 @@ base_manpower = 2
 add_core = ARA
 add_core = TOU
 fort_15th = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

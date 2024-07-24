@@ -1,9 +1,8 @@
-#432 - Kerman
-
+#432 - Kerman=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Kerman"
 trade_goods = paper
 hre = no

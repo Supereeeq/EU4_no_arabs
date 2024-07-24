@@ -1,9 +1,8 @@
-#2317 - Minya
-
+#2317 - Minya=
 owner = UEG
 controller = UEG
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Minya"
 trade_goods = sugar
 hre = no

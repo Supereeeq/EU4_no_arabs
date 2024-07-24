@@ -1,9 +1,8 @@
-#416 - Azerbaijan
-
+#416 - Azerbaijan=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = shiite
+religion = jerusalem
 capital = "Tabriz"
 trade_goods = silk
 hre = no

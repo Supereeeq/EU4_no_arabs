@@ -1,10 +1,9 @@
-#1750 - Alàcant
-
+#1750 - Alàcant=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = catalan
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3
 base_production = 3
@@ -12,7 +11,6 @@ trade_goods = salt
 base_manpower = 3 
 capital = "Alàcant" 
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

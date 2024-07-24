@@ -1,9 +1,8 @@
-#229 - Baixo Alentejo
-
+#229 - Baixo Alentejo=
 owner = VIS
 controller = VIS
 culture = portugese
-religion = catholic
+religion = jerusalem
 capital = "Beja"
 trade_goods = livestock
 hre = no

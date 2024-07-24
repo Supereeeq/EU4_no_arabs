@@ -1,9 +1,8 @@
-#360 - Qus & Qena
-
+#360 - Qus & Qena=
 owner = MAK
 controller = MAK
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Qus"
 trade_goods = livestock
 hre = no

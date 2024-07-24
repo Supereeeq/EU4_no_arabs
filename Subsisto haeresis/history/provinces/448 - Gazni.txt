@@ -1,9 +1,8 @@
-#448 - Gazni
-
+#448 - Gazni=
 owner = SAS
 controller = SAS
 culture = afghani
-religion = sunni
+religion = jerusalem
 capital = "Gazni"
 trade_goods = grain
 hre = no

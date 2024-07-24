@@ -1,9 +1,8 @@
-#4285 - Al Baraimi Oasis
-
+#4285 - Al Baraimi Oasis=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Ibri"
 trade_goods = livestock
 hre = no

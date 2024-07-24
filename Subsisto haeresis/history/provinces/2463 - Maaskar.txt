@@ -1,9 +1,8 @@
-# - Kasdir
-
+# - Kasdir=
 owner = LTV
 controller = LTV
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Kasdir"
 trade_goods = livestock
 hre = no

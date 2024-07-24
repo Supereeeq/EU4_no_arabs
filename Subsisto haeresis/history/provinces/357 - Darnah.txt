@@ -1,9 +1,8 @@
-#357 - Libya
-
+#357 - Libya=
 owner = CYR
 controller = CYR
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Derna"
 trade_goods = livestock
 hre = no

@@ -1,9 +1,8 @@
-#4339 - Rasht
-
+#4339 - Rasht=
 owner = SAS
 controller = SAS
 culture = mazandarani
-religion = sunni
+religion = jerusalem
 capital = "Rasht"
 trade_goods = silk
 hre = no

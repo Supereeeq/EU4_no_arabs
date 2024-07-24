@@ -1,9 +1,8 @@
-#4302 - Bayazid
-
+#4302 - Bayazid=
 owner = COH
 controller = COH
 culture = armenian
-religion = coptic
+religion = orthodox
 capital = "Bayazid"
 trade_goods = wool
 hre = no

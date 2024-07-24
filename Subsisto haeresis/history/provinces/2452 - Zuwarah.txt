@@ -1,9 +1,8 @@
-# - Zuwarah
-
+# - Zuwarah=
 owner = CAA
 controller = CAA
 culture = tunisian
-religion = ibadi
+religion = jerusalem
 capital = "Zuwarah"
 trade_goods = fish
 hre = no
@@ -12,9 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = CAA
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,9 +1,8 @@
-#336 - Tlemcen
-
+#336 - Tlemcen=
 owner = LTV
 controller = LTV
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Tlemcen"
 trade_goods = cloth
 hre = no

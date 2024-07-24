@@ -1,9 +1,8 @@
-#385 - Mecca
-
+#385 - Mecca=
 owner = MDN
 controller = MDN
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Makkah"
 trade_goods = incense
 hre = no

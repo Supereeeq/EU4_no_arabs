@@ -1,9 +1,8 @@
-#2315 - Suez
-
+#2315 - Suez=
 owner = JER
 controller = JER
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Suweis"
 trade_goods = livestock
 hre = no

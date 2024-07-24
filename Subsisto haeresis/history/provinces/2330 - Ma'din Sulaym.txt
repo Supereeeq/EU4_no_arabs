@@ -1,9 +1,8 @@
-#2330 - Ma'din Sulaym
-
+#2330 - Ma'din Sulaym=
 owner = MDN
 controller = MDN
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Ma'din Sulaym"
 trade_goods = livestock
 hre = no

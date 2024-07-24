@@ -1,9 +1,8 @@
-#4317 - Buhaira
-
+#4317 - Buhaira=
 owner = JER
 controller = JER
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Damanhur"
 trade_goods = salt #Wadi Natrun
 hre = no

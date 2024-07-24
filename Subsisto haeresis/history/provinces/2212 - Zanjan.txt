@@ -1,9 +1,8 @@
-#2212 - Zanjan
-
+#2212 - Zanjan=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Zanjan"
 trade_goods = spices
 hre = no

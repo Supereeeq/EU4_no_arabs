@@ -1,9 +1,8 @@
-#2345 - Beihan
-
+#2345 - Beihan=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = shiite
+religion = jerusalem
 capital = "Beihan"
 trade_goods = livestock
 hre = no

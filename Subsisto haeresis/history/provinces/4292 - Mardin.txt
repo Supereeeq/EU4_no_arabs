@@ -1,9 +1,8 @@
-#4392 - Mardin
-
+#4392 - Mardin=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Mardin"
 trade_goods = wool
 hre = no

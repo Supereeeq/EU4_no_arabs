@@ -1,9 +1,8 @@
-#4277 - Taif
-
+#4277 - Taif=
 owner = MDN
 controller = MDN
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Taif"
 trade_goods = wool
 hre = no

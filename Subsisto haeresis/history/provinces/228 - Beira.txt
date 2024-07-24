@@ -1,9 +1,8 @@
-#228 - Beira
-
+#228 - Beira=
 owner = VIS
 controller = VIS
 culture = portugese
-religion = catholic
+religion = jerusalem
 capital = "Viseu"
 trade_goods = wine
 hre = no
@@ -12,7 +11,6 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = VIS
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

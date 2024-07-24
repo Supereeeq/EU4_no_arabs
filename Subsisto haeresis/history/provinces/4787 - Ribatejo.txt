@@ -1,9 +1,8 @@
-#4787 - Ribatejo
-
+#4787 - Ribatejo=
 owner = VIS
 controller = VIS
 culture = portugese
-religion = catholic
+religion = jerusalem
 capital = "Santarém"
 trade_goods = grain
 hre = no

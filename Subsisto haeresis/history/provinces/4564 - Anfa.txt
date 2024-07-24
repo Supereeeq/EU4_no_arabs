@@ -1,9 +1,8 @@
-# - Anfa
-
+# - Anfa=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Anfa"
 trade_goods = grain
 hre = no

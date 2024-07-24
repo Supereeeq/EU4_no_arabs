@@ -1,9 +1,8 @@
-#389 - Mukalla
-
+#389 - Mukalla=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = sunni
+religion = jerusalem
 capital = "Al Mukalla"
 trade_goods = incense
 hre = no

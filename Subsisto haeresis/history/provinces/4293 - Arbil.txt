@@ -1,9 +1,8 @@
-#4393 - Arbil
-
+#4393 - Arbil=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Arbil"
 trade_goods = cloth
 hre = no

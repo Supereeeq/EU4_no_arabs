@@ -1,9 +1,8 @@
-#356 - Cyrenaica
-
+#356 - Cyrenaica=
 owner = CYR
 controller = CYR
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Benghazi"
 trade_goods = livestock
 hre = no

@@ -1,9 +1,8 @@
-#4325 - Sarakhs
-
+#4325 - Sarakhs=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Sarakhs"
 trade_goods = wool
 hre = no

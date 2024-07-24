@@ -1,9 +1,8 @@
-# - El Kef
-
+# - El Kef=
 owner = VAN
 controller = VAN 
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "El Kef"
 trade_goods = wool
 hre = no
@@ -13,7 +12,6 @@ base_manpower = 1
 is_city = yes
 add_core = VAN
 fort_15th = yes #El Kef fortifications
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

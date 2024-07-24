@@ -1,9 +1,8 @@
-#4329 - Fasa and Jahrum
-
+#4329 - Fasa and Jahrum=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Fasa"
 trade_goods = silk #And Paper in Jahrum
 hre = no

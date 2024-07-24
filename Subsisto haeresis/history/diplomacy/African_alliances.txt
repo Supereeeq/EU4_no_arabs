@@ -1,7 +1,7 @@
 #MakuriaZEgiptem
 vassal = {
 	first = MAK
-	second = UEC
+	second = UEG
 	start_date = 1300.1.1
 	end_date = 1572.1.1
 }

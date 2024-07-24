@@ -1,9 +1,8 @@
-#2300 - Bozok
-
+#2300 - Bozok=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Yozgat"
 trade_goods = grain
 hre = no

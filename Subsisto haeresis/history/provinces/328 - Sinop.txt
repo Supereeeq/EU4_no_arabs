@@ -1,9 +1,8 @@
-#328 - Sinope
-
+#328 - Sinope=
 owner = TRE
 controller = TRE
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Sinop"
 trade_goods = naval_supplies
 hre = no

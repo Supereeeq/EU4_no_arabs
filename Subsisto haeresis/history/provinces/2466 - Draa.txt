@@ -1,9 +1,8 @@
-# - Draa
-
+# - Draa=
 owner = ZAW
 controller = ZAW
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Tagmadert"
 trade_goods = spices #Dates
 hre = no

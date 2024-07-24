@@ -1,9 +1,8 @@
-#2341 - Sharqiyah
-
+#2341 - Sharqiyah=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Masirah"
 trade_goods = copper
 hre = no

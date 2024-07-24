@@ -1,9 +1,8 @@
-# - Abda
-
+# - Abda=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Mazzagan"
 trade_goods = grain
 hre = no

@@ -1,7 +1,6 @@
-#368 - Madeira
-
+#368 - Madeira=
 culture = berber
-religion = animism
+religion = jerusalem
 capital = "Funchal"
 trade_goods = unknown
 hre = no

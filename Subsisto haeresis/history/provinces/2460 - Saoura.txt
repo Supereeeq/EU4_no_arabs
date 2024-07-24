@@ -1,9 +1,8 @@
-# - Saoura
-
+# - Saoura=
 owner = ZAW
 controller = ZAW
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Oulad Mhedi"
 trade_goods = livestock
 hre = no

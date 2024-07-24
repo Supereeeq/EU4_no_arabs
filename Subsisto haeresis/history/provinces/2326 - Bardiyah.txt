@@ -1,9 +1,8 @@
-#2326 - Bardiyah
-
+#2326 - Bardiyah=
 owner = CYR
 controller = CYR
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Bardiyah"
 trade_goods = livestock
 hre = no

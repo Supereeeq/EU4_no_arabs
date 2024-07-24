@@ -1,9 +1,8 @@
-#2301 - Kayseri
-
+#2301 - Kayseri=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Kayseri"
 trade_goods = iron
 hre = no

@@ -1,9 +1,8 @@
-#2343 - Kathiri
-
+#2343 - Kathiri=
 owner = MHA
 controller = MHA
 culture = yemeni_culture
-religion = sunni
+religion = jerusalem
 capital = "Say'un"
 trade_goods = livestock
 hre = no

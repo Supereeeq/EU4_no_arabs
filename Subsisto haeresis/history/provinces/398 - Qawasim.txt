@@ -1,9 +1,8 @@
-#398 - Qawasim
-
+#398 - Qawasim=
 owner = AZD
 controller = AZD
 culture = gulf_arabic
-religion = ibadi
+religion = jerusalem
 capital = "Sharjah"
 trade_goods = livestock
 hre = no

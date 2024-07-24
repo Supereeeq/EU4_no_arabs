@@ -1,9 +1,8 @@
-#2217 - Yasuj
-
+#2217 - Yasuj=
 owner = SAS
 controller = SAS
 culture = luri
-religion = shiite
+religion = jerusalem
 capital = "Yasuj"
 trade_goods = cloth
 hre = no

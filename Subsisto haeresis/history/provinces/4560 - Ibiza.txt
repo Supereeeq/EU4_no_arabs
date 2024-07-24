@@ -1,10 +1,9 @@
-#Ibiza
-
+#Ibiza=
 owner = VAN
 controller = VAN
 add_core = VAN
 culture = catalan
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 1 
 base_production = 1 

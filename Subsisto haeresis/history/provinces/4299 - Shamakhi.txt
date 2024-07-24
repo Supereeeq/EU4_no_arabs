@@ -1,9 +1,8 @@
-#4299 - Shamakhi
-
+#4299 - Shamakhi=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Shamakhi"
 trade_goods = wool
 hre = no

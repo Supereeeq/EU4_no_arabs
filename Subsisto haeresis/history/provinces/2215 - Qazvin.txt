@@ -1,9 +1,8 @@
-#2215 - Qazvin
-
+#2215 - Qazvin=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Qazvin"
 trade_goods = silk
 hre = no

@@ -1,10 +1,9 @@
-#2798 - Soba
-
+#2798 - Soba=
 owner = MAK
 controller = MAK
 add_core = MAK
 culture = nubian
-religion = coptic
+religion = jerusalem
 capital = "Soba"
 is_city = yes
 trade_goods = grain

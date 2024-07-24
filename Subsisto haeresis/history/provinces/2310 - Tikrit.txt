@@ -1,9 +1,8 @@
-#2310 - Tikrit
-
+#2310 - Tikrit=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jerusalem
 capital = "Tikrit"
 trade_goods = livestock
 hre = no

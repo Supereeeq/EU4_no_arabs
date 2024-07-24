@@ -1,9 +1,8 @@
-#365 - Aqaba
-
+#365 - Aqaba=
 owner = JUD
 controller = JUD
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Aqaba"
 trade_goods = fish
 hre = no

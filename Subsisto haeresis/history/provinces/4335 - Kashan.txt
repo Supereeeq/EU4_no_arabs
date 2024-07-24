@@ -1,9 +1,8 @@
-#4335 - Kashan
-
+#4335 - Kashan=
 owner = SAS
 controller = SAS
 culture = persian
-religion = shiite
+religion = jerusalem
 capital = "Kashan"
 trade_goods = silk
 hre = no

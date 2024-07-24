@@ -1,9 +1,8 @@
-#1851 - Coimbra
-
+#1851 - Coimbra=
 owner = VIS
 controller = VIS
 culture = portugese
-religion = catholic
+religion = jerusalem
 capital = "Coimbra"
 trade_goods = grain
 hre = no

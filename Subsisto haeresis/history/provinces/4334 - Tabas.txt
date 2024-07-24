@@ -1,9 +1,8 @@
-#4334 - Tabas
-
+#4334 - Tabas=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Tabas"
 trade_goods = wool
 hre = no

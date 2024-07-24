@@ -1,9 +1,8 @@
-#577 - Quetta
-
+#577 - Quetta=
 owner = SAS
 controller = SAS
 culture = baluchi
-religion = sunni
+religion = jerusalem
 capital = "Quetta"
 trade_goods = grain
 hre = no
@@ -13,9 +12,6 @@ base_manpower = 3
 is_city = yes
 add_core = SAS
 add_local_autonomy = 25
-
-
-
 discovered_by = KAS
 discovered_by = indian
 discovered_by = muslim

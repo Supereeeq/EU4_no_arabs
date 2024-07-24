@@ -1,9 +1,8 @@
-#575 - Eastern Makran
-
+#575 - Eastern Makran=
 owner = SAS
 controller = SAS
 culture = baluchi
-religion = sunni
+religion = jerusalem
 capital = "Chabahar"
 trade_goods = fish
 hre = no

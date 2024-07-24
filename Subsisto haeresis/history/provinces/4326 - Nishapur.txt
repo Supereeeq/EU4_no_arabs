@@ -1,9 +1,8 @@
-#4326 - Nishapur
-
+#4326 - Nishapur=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Nishapur"
 trade_goods = gems #Turquoise
 hre = no

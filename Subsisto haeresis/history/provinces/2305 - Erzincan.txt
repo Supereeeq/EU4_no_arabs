@@ -1,9 +1,8 @@
-#2305 - Erzincan
-
+#2305 - Erzincan=
 owner = COH
 controller = COH
 culture = armenian
-religion = coptic
+religion = orthodox
 capital = "Erzindjan"
 trade_goods = copper
 hre = no

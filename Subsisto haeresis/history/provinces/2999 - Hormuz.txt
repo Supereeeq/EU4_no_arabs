@@ -1,11 +1,10 @@
-#2999 - Hormuz
-
+#2999 - Hormuz=
 owner = AZD
 controller = AZD
 add_core = AZD
 capital = "Hormuz"
 culture = gulf_arabic
-religion = sunni
+religion = jerusalem
 trade_goods = gems #Pearls
 hre = no
 base_tax = 3 

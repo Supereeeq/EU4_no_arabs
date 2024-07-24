@@ -1,9 +1,8 @@
-#394 - El Catif
-
+#394 - El Catif=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Al-Qatif"
 trade_goods = fish
 hre = no

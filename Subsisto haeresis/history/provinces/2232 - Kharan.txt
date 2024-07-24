@@ -1,9 +1,8 @@
-#2232 - Kharan
-
+#2232 - Kharan=
 owner = SAS
 controller = SAS
 culture = baluchi
-religion = sunni
+religion = jerusalem
 capital = "Kharan"
 trade_goods = livestock
 hre = no

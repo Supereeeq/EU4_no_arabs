@@ -1,9 +1,8 @@
-#2302 - Içel
-
+#2302 - Içel=
 owner = CRT
 controller = CRT
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Ermenek"
 trade_goods = naval_supplies
 hre = no

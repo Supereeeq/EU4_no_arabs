@@ -1,9 +1,8 @@
-#4313 - Kangiri
-
+#4313 - Kangiri=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Kangiri"
 trade_goods = wool
 hre = no

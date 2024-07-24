@@ -1,9 +1,8 @@
-#2210 - Kirmanshah
-
+#2210 - Kirmanshah=
 owner = SAS
 controller = SAS
 culture = luri
-religion = sunni
+religion = jerusalem
 capital = "Kirmanshah"
 trade_goods = cloth
 hre = no

@@ -1,9 +1,8 @@
-#418 - Diyarbakir
-
+#418 - Diyarbakir=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Diyar Bekir"
 trade_goods = livestock
 hre = no

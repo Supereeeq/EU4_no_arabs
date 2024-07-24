@@ -1,9 +1,8 @@
-#2224 - Ferah
-
+#2224 - Ferah=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Ferah"
 trade_goods = livestock
 hre = no

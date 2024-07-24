@@ -1,9 +1,8 @@
-#424 - Ardabil
-
+#424 - Ardabil=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = shiite
+religion = jerusalem
 capital = "Ardabil"
 trade_goods = dyes
 hre = no

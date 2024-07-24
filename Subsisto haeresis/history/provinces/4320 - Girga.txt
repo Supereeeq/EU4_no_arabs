@@ -1,9 +1,8 @@
-#4320 - Girga
-
+#4320 - Girga=
 owner = MAK
 controller = MAK
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Girga"
 trade_goods = grain
 hre = no

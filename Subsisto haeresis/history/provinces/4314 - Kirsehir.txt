@@ -1,9 +1,8 @@
-#4314 - Kirsehir
-
+#4314 - Kirsehir=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Kirshehir"
 trade_goods = wool
 hre = no

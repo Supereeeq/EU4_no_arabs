@@ -1,9 +1,8 @@
-#2226 - Jalalabad
-
+#2226 - Jalalabad=
 owner = SAS
 controller = SAS
 culture = afghani
-religion = sunni
+religion = jerusalem
 capital = "Jalalabad"
 trade_goods = livestock
 hre = no

@@ -1,9 +1,8 @@
-#364 - Gaza
-
+#364 - Gaza=
 owner = JER
 controller = JER
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Gazzah"
 trade_goods = salt
 hre = no
@@ -12,7 +11,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = JER
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

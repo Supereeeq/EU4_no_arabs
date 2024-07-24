@@ -1,9 +1,8 @@
-#4289 - Shushtar
-
+#4289 - Shushtar=
 owner = SAS
 controller = SAS
 culture = persian
-religion = shiite
+religion = jerusalem
 capital = "Shushtar"
 trade_goods = silk
 hre = no

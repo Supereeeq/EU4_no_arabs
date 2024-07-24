@@ -1,9 +1,8 @@
-#326 - Ankara
-
+#326 - Ankara=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Ankara"
 trade_goods = cloth
 hre = no

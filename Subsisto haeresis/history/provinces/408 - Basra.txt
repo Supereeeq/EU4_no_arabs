@@ -1,9 +1,8 @@
-#408 - Basra
-
+#408 - Basra=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = shiite
+religion = jerusalem
 capital = "Basra"
 trade_goods = salt
 hre = no

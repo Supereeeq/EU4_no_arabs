@@ -1,10 +1,9 @@
-#1748 - La Mancha
-
+#1748 - La Mancha=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = andalucian
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3
 base_production = 4

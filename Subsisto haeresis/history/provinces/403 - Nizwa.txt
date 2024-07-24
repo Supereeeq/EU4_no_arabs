@@ -1,9 +1,8 @@
-#403 - Nizwa
-
+#403 - Nizwa=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Nizwa"
 trade_goods = wool
 hre = no

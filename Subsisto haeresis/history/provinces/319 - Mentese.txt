@@ -1,9 +1,8 @@
-#319 - Mentese
-
+#319 - Mentese=
 owner = CAR
 controller = CAR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Mughla"
 trade_goods = salt
 hre = no

@@ -1,9 +1,8 @@
-#324 - Karaman
-
+#324 - Karaman=
 owner = CRT
 controller = CRT
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Karaman"
 trade_goods = livestock
 hre = no

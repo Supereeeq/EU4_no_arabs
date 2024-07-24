@@ -1,9 +1,8 @@
-#386 - Asir
-
+#386 - Asir=
 owner = HAZ
 controller = HAZ
 culture = hejazi_culture
-religion = shiite
+religion = jerusalem
 capital = "Bishah"
 trade_goods = coffee
 hre = no

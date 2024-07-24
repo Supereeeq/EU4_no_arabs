@@ -1,9 +1,8 @@
-#4395 - Hisn Kayfa
-
+#4395 - Hisn Kayfa=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Hisn Kayfa"
 trade_goods = wool
 hre = no

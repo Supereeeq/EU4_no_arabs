@@ -1,9 +1,8 @@
-#4311 - Karahisar
-
+#4311 - Karahisar=
 owner = CAR
 controller = CAR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Karahisar"
 trade_goods = livestock
 hre = no

@@ -1,9 +1,8 @@
-# - Oujda
-
+# - Oujda=
 owner = LTV
 controller = LTV
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Oujda"
 trade_goods = wool
 hre = no
@@ -12,9 +11,6 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = LTV
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

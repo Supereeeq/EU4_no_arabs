@@ -1,9 +1,8 @@
-#4271 - Suwaida
-
+#4271 - Suwaida=
 owner = JER
 controller = JER
 culture = bedouin_arabic
-religion = shiite
+religion = jerusalem
 capital = "As-Suwayda"
 trade_goods = livestock
 hre = no

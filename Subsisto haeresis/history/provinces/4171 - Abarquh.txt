@@ -1,9 +1,8 @@
-#4171 - Abarquh
-
+#4171 - Abarquh=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Abarquh"
 trade_goods = livestock #known for its pastures for Timurid armies
 hre = no

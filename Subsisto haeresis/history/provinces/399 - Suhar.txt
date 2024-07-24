@@ -1,9 +1,8 @@
-#399 - Suhar
-
+#399 - Suhar=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Suhar"
 trade_goods = grain #And pearls
 hre = no

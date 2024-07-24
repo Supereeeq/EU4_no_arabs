@@ -1,9 +1,8 @@
-#4312 - Eskisehir
-
+#4312 - Eskisehir=
 owner = NIC
 controller = NIC
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Eskisehir"
 trade_goods = cloth
 hre = no

@@ -1,9 +1,8 @@
-#426 - Amol
-
+#426 - Amol=
 owner = SAS
 controller = SAS
 culture = mazandarani
-religion = shiite
+religion = jerusalem
 capital = "Amol"
 trade_goods = silk
 hre = no

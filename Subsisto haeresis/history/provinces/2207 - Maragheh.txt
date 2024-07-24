@@ -1,9 +1,8 @@
-#2207 - Maragheh
-
+#2207 - Maragheh=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = shiite
+religion = jerusalem
 capital = "Marageh"
 trade_goods = wool
 hre = no

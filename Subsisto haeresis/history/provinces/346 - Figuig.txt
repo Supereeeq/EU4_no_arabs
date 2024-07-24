@@ -1,9 +1,8 @@
-#346 - Tafilalt
-
+#346 - Tafilalt=
 owner = ZAW
 controller = ZAW 
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Tafilalt"
 trade_goods = gold
 hre = no

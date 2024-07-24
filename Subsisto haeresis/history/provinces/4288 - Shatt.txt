@@ -1,9 +1,8 @@
-# - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya
-
+# - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jerusalem
 capital = "al-Qurna"
 trade_goods = spices #Dates
 hre = no

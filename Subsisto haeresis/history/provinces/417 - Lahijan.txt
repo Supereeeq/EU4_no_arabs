@@ -1,13 +1,11 @@
-#417 - Lahijan
-
+#417 - Lahijan=
 latent_trade_goods = {
-	coal
-}
-
+	coal=
+}=
 owner = SAS
 controller = SAS
 culture = mazandarani
-religion = shiite
+religion = jerusalem
 capital = "Lahijan"
 trade_goods = silk
 hre = no

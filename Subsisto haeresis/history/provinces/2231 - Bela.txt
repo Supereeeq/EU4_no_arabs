@@ -1,9 +1,8 @@
-#2063 - Bela
-
+#2063 - Bela=
 owner = SAS
 controller = SAS
 culture = baluchi
-religion = sunni
+religion = jerusalem
 capital = "Bela"
 trade_goods = fish
 hre = no

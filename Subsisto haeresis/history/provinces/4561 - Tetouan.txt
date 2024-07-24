@@ -1,9 +1,8 @@
-# Tetouan
-
+# Tetouan=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Tetouan"
 trade_goods = grain
 hre = no

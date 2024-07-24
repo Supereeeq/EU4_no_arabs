@@ -1,9 +1,8 @@
-# - Rabat
-
+# - Rabat=
 owner = BAG
 controller = BAG 
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Rabat"
 trade_goods = grain
 hre = no

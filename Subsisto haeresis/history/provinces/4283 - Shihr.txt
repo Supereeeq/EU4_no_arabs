@@ -1,9 +1,8 @@
-#4283 - Shihr
-
+#4283 - Shihr=
 owner = MHA
 controller = MHA
 culture = yemeni_culture
-religion = sunni
+religion = jerusalem
 capital = "As Shihr"
 trade_goods = incense
 hre = no

@@ -1,9 +1,8 @@
-# - Sale
-
+# - Sale=
 owner = BAG
 controller = BAG 
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Sale"
 trade_goods = grain
 hre = no

@@ -1,9 +1,8 @@
-#2230 - Chakansur
-
+#2230 - Chakansur=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Chakansur"
 trade_goods = livestock
 hre = no

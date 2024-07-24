@@ -1,5 +1,4 @@
-#161 - Tîrgoviste
-
+#161 - Tîrgoviste=
 owner = BUL
 controller = BUL
 culture = romanian

@@ -1,0 +1,24 @@
+vassal = {
+	first = BYZ
+	second = CAR
+	start_date = 1300.1.1
+	end_date = 1572.1.1
+}
+vassal = {
+	first = BYZ
+	second = NIC
+	start_date = 1300.1.1
+	end_date = 1572.1.1
+}
+vassal = {
+	first = BYZ
+	second = EPI
+	start_date = 1300.1.1
+	end_date = 1572.1.1
+}
+vassal = {
+	first = BYZ
+	second = TRE
+	start_date = 1300.1.1
+	end_date = 1572.1.1
+}

@@ -1,9 +1,8 @@
-#126 - Malta
-
+#126 - Malta=
 owner = CRT
 controller = CRT
 culture = maltese 
-religion = catholic 
+religion = orthodox
 hre = no 
 base_tax = 3 
 base_production = 3

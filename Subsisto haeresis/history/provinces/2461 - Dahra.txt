@@ -1,9 +1,8 @@
-# - Dahra
-
+# - Dahra=
 owner = VAN
 controller = VAN
 culture = algerian
-religion = sunni
+religion = jerusalem
 capital = "Mostaganem"
 trade_goods = grain
 hre = no

@@ -1,9 +1,8 @@
-#345 - Safi
-
+#345 - Safi=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Safi"
 trade_goods = sugar
 hre = no
@@ -12,9 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = BAG
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

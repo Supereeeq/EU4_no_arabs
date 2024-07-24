@@ -1,5 +1,4 @@
-#160 - Oltenia
-
+#160 - Oltenia=
 owner = BUL
 controller = BUL
 culture = romanian

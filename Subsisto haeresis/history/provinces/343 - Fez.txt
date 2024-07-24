@@ -1,9 +1,8 @@
-#343 - Fez
-
+#343 - Fez=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Fez"
 trade_goods = cloth
 hre = no
@@ -13,9 +12,6 @@ base_manpower = 3
 is_city = yes
 fort_15th = yes
 add_core =  BAG
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,9 +1,8 @@
-#4391 - Qazaniya
-
+#4391 - Qazaniya=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jerusalem
 capital = "Qazaniya"
 trade_goods = cotton
 hre = no

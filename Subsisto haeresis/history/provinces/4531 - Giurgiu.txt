@@ -1,5 +1,4 @@
-# Giurgiu
-
+# Giurgiu=
 owner = BUL
 controller = BUL 
 culture = romanian

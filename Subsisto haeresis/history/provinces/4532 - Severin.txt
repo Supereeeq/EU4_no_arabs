@@ -1,5 +1,4 @@
-# Severin
-
+# Severin=
 owner = BUL
 controller = BUL
 culture = romanian

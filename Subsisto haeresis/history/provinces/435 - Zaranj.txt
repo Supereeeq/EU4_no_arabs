@@ -1,9 +1,8 @@
-#435 - Sistan
-
+#435 - Sistan=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Zaranj"
 trade_goods = wool
 hre = no

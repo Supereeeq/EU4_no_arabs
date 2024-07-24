@@ -1,9 +1,8 @@
-#4327 - Jask
-
+#4327 - Jask=
 owner = SAS
 controller = SAS
 culture = gulf_arabic
-religion = sunni
+religion = jerusalem
 capital = "Jask"
 trade_goods = fish
 hre = no

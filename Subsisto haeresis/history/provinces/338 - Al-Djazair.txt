@@ -1,9 +1,8 @@
-#338 - Al-Djazair
-
+#338 - Al-Djazair=
 owner = VAN
 controller = VAN 
 culture = algerian
-religion = sunni
+religion = jerusalem
 capital = "Al-Djazair"
 trade_goods = grain
 hre = no

@@ -1,9 +1,8 @@
-#4274 - Sudayr
-
+#4274 - Sudayr=
 owner = TAM
 controller = TAM
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "al-Hauta"
 trade_goods = grain
 hre = no

@@ -1,9 +1,8 @@
-#4337 - Savah
-
+#4337 - Savah=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Savah"
 trade_goods = grain
 hre = no

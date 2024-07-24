@@ -1,9 +1,8 @@
-#1849 - Hama
-
+#1849 - Hama=
 owner = KRD
 controller = KRD
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Hama"
 trade_goods = cotton
 hre = no

@@ -1,9 +1,8 @@
-#355 - Sirt
-
+#355 - Sirt=
 owner = CAA
 controller = CAA
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "Ben Jawad"
 trade_goods = fish
 hre = no

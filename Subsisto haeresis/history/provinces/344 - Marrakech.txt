@@ -1,9 +1,8 @@
-#344 - Marrakech
-
+#344 - Marrakech=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Marrakech"
 trade_goods = sugar
 hre = no

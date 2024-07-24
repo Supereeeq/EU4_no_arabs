@@ -1,10 +1,9 @@
-#215 - Valladolid
-
+#215 - Valladolid=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = castillian
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3
 base_production = 3

@@ -1,9 +1,8 @@
-#349 - Figuig
-
+#349 - Figuig=
 owner = ZAW
 controller = ZAW
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Figuig"
 trade_goods = livestock
 hre = no

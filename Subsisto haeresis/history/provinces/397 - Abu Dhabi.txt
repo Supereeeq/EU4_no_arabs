@@ -1,9 +1,8 @@
-#397 - Abu Dhabi
-
+#397 - Abu Dhabi=
 owner = AZD
 controller = AZD
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Abu Dhabi"
 trade_goods = livestock #Pearls
 hre = no

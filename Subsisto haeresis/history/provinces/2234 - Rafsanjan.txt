@@ -1,9 +1,8 @@
-#2234 - Rafsanjan
-
+#2234 - Rafsanjan=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Rafsanjan"
 trade_goods = copper
 hre = no

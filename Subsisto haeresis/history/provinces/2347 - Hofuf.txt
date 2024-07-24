@@ -1,9 +1,8 @@
-#2347 - Hofuf
-
+#2347 - Hofuf=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Hofuf"
 trade_goods = spices #Dates
 hre = no

@@ -1,9 +1,8 @@
-#2312 - Wasit
-
+#2312 - Wasit=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jerusalem
 capital = "Wasit"
 trade_goods = grain
 hre = no

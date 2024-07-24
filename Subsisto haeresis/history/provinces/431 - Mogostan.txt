@@ -1,9 +1,8 @@
-#431 - Mogostan
-
+#431 - Mogostan=
 owner = SAS
 controller = SAS
 culture = gulf_arabic
-religion = sunni
+religion = jerusalem
 capital = "Gamrun"
 trade_goods = spices
 hre = no

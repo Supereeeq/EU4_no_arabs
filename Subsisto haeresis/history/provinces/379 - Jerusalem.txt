@@ -1,9 +1,8 @@
-#379 - Judea
-
+#379 - Judea=
 owner = JER
 controller = JER
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Quds"
 trade_goods = grain
 hre = no
@@ -12,7 +11,6 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = JER
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -20,6 +18,5 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-
 add_province_triggered_modifier = jerusalem_held
 add_province_triggered_modifier = promised_land_modifier

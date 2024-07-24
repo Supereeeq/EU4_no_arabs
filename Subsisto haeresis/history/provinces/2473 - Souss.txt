@@ -1,9 +1,8 @@
-# - Susa
-
+# - Susa=
 owner = VAN
 controller = VAN
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "Susa"
 trade_goods = sugar
 hre = no

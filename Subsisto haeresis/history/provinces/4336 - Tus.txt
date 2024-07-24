@@ -1,9 +1,8 @@
-#4336 - Tus
-
+#4336 - Tus=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Tun"
 trade_goods = spices #Saffron
 hre = no

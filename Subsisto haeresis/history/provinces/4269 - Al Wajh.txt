@@ -1,9 +1,8 @@
-#4269 - Al Wajh
-
+#4269 - Al Wajh=
 owner = BAI
 controller = BAI
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Wajh"
 trade_goods = fish
 hre = no

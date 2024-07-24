@@ -1,9 +1,8 @@
-#347 - Ifni
-
+#347 - Ifni=
 owner = BAG
 controller = BAG
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Sidi Ifni"
 trade_goods = fish
 hre = no
@@ -12,9 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = BAG
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

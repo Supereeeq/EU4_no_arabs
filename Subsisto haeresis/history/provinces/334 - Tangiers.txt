@@ -1,9 +1,8 @@
-#334 - Tangiers
-
+#334 - Tangiers=
 owner = BAG
 controller = BAG
 culture = moroccan
-religion = sunni
+religion = jerusalem
 capital = "Tangier"
 trade_goods = cloth
 hre = no

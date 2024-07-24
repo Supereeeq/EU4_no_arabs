@@ -1,9 +1,8 @@
-#433 - Yadz
-
+#433 - Yadz=
 owner = SAS
 controller = SAS
 culture = persian
-religion = zoroastrian
+religion = jerusalem
 capital = "Yazd"
 trade_goods = paper
 hre = no

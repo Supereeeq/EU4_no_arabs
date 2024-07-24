@@ -1,9 +1,8 @@
-#4307 - Aksaray
-
+#4307 - Aksaray=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Aksaray"
 trade_goods = livestock
 hre = no

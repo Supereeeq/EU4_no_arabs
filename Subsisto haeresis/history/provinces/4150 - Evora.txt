@@ -1,9 +1,8 @@
-#4150 - Alto Alentejo
-
+#4150 - Alto Alentejo=
 owner = VIS
 controller = VIS
 culture = portugese
-religion = catholic
+religion = jerusalem
 capital = "Évora"
 trade_goods = wine
 hre = no

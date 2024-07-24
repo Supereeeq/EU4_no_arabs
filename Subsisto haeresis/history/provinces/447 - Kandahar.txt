@@ -1,9 +1,8 @@
-#447 - Kandahar
-
+#447 - Kandahar=
 owner = SAS
 controller = SAS
 culture = afghani
-religion = sunni
+religion = jerusalem
 capital = "Kandahar"
 trade_goods = cotton
 hre = no

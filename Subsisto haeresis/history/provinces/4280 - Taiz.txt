@@ -1,9 +1,8 @@
-#4280 - Taiz
-
+#4280 - Taiz=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = shiite
+religion = jerusalem
 capital = "Taiz"
 trade_goods = coffee
 hre = no

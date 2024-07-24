@@ -1,9 +1,8 @@
-#4279 - Zabid & Hudaydah
-
+#4279 - Zabid & Hudaydah=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = sunni
+religion = jerusalem
 capital = "Zabid"
 trade_goods = coffee
 hre = no

@@ -1,9 +1,8 @@
-#2340 - Grane
-
+#2340 - Grane=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = sunni
+religion = jerusalem
 capital = "Grane" #old name for Kuwait
 trade_goods = fish
 hre = no

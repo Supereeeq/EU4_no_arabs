@@ -1,9 +1,8 @@
-#430 - Bushehr
-
+#430 - Bushehr=
 owner = SAS
 controller = SAS
 culture = persian
-religion = shiite
+religion = jerusalem
 capital = "Bushehr"
 trade_goods = silk
 hre = no

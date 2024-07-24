@@ -1,9 +1,8 @@
-#4398 - Ayntab
-
+#4398 - Ayntab=
 owner = KRD
 controller = KRD
 culture = turkish
-religion = sunni
+religion = jerusalem
 capital = "Ayntab"
 trade_goods = wool
 hre = no

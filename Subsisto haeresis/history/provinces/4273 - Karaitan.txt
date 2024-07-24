@@ -1,9 +1,8 @@
-#4273 - Karaitan
-
+#4273 - Karaitan=
 owner = NUY
 controller = NUY
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Kariatan"
 trade_goods = livestock
 hre = no

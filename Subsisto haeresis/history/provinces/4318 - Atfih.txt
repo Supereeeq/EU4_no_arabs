@@ -1,9 +1,8 @@
-#4318 - Atfih
-
+#4318 - Atfih=
 owner = UEG
 controller = UEG
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Atfih"
 trade_goods = paper
 hre = no

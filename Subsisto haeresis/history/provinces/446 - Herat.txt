@@ -1,9 +1,8 @@
-#446 - Herat
-
+#446 - Herat=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Herat"
 trade_goods = paper
 hre = no

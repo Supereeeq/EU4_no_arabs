@@ -1,10 +1,9 @@
-#210 - Navarra
-
+#210 - Navarra=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = basque
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3 
 base_production = 2
@@ -13,7 +12,6 @@ base_manpower = 2
 #fort_15th = yes #Fortifications of Pamplona and Saint-Jean-Pied-de-Port
 capital = "Pamplona" 
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

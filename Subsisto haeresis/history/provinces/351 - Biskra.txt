@@ -1,9 +1,8 @@
-#351 - Biskra
-
+#351 - Biskra=
 owner = VAN
 controller = VAN 
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Biskra"
 trade_goods = wool
 hre = no

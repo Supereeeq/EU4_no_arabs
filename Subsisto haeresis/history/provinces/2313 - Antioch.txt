@@ -1,9 +1,8 @@
-#2313 - Antioch
-
+#2313 - Antioch=
 owner = JER
 controller = JER
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Antakya"
 trade_goods = cloth
 hre = no

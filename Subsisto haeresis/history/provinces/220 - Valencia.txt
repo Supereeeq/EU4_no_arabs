@@ -1,10 +1,9 @@
-#220 - València
-
+#220 - València=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = catalan
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 6 
 base_production = 5

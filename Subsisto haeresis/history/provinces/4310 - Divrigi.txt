@@ -1,9 +1,8 @@
-#4308 - Divrigi
-
+#4308 - Divrigi=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = shiite
+religion = orthodox
 capital = "Divrigi"
 trade_goods = wool
 hre = no

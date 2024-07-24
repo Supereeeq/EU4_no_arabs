@@ -1,9 +1,8 @@
-#361 - Cairo
-
+#361 - Cairo=
 owner = JER
 controller = JER
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Qahira"
 trade_goods = cloth
 hre = no

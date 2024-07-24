@@ -1,9 +1,8 @@
-#2308 - Urfa
-
+#2308 - Urfa=
 owner = KRD
 controller = KRD
 culture = kurdish
-religion = sunni
+religion = jerusalem
 capital = "Urfa"
 trade_goods = wool
 hre = no
@@ -19,4 +18,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = indian
-

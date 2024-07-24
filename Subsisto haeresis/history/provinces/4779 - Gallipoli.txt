@@ -11,7 +11,6 @@ base_manpower = 3
 is_city = yes
 add_core = BYZ
 fort_15th = yes #Fortress of Gallipoli
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

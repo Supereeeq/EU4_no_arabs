@@ -1,9 +1,8 @@
-#436 - Birjand
-
+#436 - Birjand=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Birjand"
 trade_goods = cotton
 hre = no

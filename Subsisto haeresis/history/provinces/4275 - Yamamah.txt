@@ -1,9 +1,8 @@
-#4275 - Al-Yamamah
-
+#4275 - Al-Yamamah=
 owner = TAM
 controller = TAM
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Kharj"
 trade_goods = livestock
 hre = no

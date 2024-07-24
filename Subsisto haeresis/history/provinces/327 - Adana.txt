@@ -1,9 +1,8 @@
-#327 - Adana
-
+#327 - Adana=
 owner = CRT
 controller = CRT
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Adana"
 trade_goods = cotton
 hre = no

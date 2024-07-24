@@ -1,9 +1,8 @@
-#377 - Aleppo
-
+#377 - Aleppo=
 owner = KRD
 controller = KRD
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Halab"
 trade_goods = silk
 hre = no

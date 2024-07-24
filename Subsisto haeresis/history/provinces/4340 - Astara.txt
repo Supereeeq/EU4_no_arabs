@@ -1,9 +1,8 @@
-#4340 - Astara
-
+#4340 - Astara=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = shiite
+religion = jerusalem
 capital = "Astara"
 trade_goods = fish
 hre = no

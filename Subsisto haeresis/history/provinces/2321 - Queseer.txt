@@ -1,10 +1,9 @@
-#2321 - Queseer
-
+#2321 - Queseer=
 owner = MAK
 controller = MAK
 add_core = MAK
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Qusair"
 is_city = yes
 base_manpower = 1

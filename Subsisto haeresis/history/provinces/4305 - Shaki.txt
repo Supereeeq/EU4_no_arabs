@@ -1,9 +1,8 @@
-#4305 - Shakhi
-
+#4305 - Shakhi=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Shaki"
 trade_goods = wool
 hre = no

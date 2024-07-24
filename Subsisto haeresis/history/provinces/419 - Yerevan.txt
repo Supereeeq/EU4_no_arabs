@@ -1,5 +1,4 @@
-#419 - Yerevan
-
+#419 - Yerevan=
 owner = GEO
 controller = GEO
 culture = georgian

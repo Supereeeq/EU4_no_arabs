@@ -1,9 +1,8 @@
-#2225 - Bamyan
-
+#2225 - Bamyan=
 owner = SAS
 controller = SAS
 culture = afghani
-religion = shiite
+religion = jerusalem
 capital = "Bamyan"
 trade_goods = dyes
 hre = no

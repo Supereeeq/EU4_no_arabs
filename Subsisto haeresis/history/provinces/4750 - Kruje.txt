@@ -1,5 +1,4 @@
-# 4750 - Krujë, Tirana, central Albania
-
+# 4750 - Krujë, Tirana, central Albania=
 owner = EPI
 controller = EPI
 culture = albanian

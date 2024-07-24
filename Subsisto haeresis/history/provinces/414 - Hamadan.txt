@@ -1,9 +1,8 @@
-#414 - Hamadan
-
+#414 - Hamadan=
 owner = SAS
 controller = SAS
 culture = luri
-religion = sunni
+religion = jerusalem
 capital = "Hamedan"
 trade_goods = cloth
 hre = no

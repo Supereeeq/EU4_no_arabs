@@ -1,9 +1,8 @@
-#401 - Dhofar
-
+#401 - Dhofar=
 owner = MHA
 controller = MHA
 culture = mahri_culture
-religion = sunni
+religion = jerusalem
 capital = "Salalah"
 trade_goods = incense
 hre = no

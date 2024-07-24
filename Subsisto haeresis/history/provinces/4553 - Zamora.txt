@@ -1,10 +1,9 @@
-#4553 - Zamora
-
+#4553 - Zamora=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = leonese
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 3
 base_production = 3

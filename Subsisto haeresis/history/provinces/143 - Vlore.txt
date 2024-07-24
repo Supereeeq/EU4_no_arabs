@@ -1,5 +1,4 @@
-#143 - Vlorë - Southern Albania
-
+#143 - Vlorë - Southern Albania=
 owner = EPI
 controller = EPI
 culture = albanian

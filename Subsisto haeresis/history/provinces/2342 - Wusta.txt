@@ -1,9 +1,8 @@
-#2342 - Wusta
-
+#2342 - Wusta=
 owner = MHA
 controller = MHA
 culture = mahri_culture
-religion = sunni
+religion = jerusalem
 capital = "Hasik" #Curia Muria Islands
 trade_goods = incense
 hre = no

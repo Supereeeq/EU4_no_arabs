@@ -1,9 +1,8 @@
-#2346 - Jazan
-
+#2346 - Jazan=
 owner = MAF
 controller = MAF
 culture = hejazi_culture
-religion = shiite
+religion = jerusalem
 capital = "Jazan"
 trade_goods = fish
 hre = no

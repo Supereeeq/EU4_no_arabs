@@ -1,9 +1,8 @@
-#393 - Jabal Shammar
-
+#393 - Jabal Shammar=
 owner = TAY
 controller = TAY
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Ha'il"
 trade_goods = grain
 hre = no

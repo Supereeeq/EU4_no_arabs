@@ -1,9 +1,8 @@
-#2223 - Larestan
-
+#2223 - Larestan=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Lar"
 trade_goods = iron
 hre = no

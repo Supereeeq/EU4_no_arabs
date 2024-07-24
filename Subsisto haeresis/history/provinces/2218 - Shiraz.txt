@@ -1,9 +1,8 @@
-#2218 - Shiraz
-
+#2218 - Shiraz=
 owner = SAS
 controller = SAS
 culture = persian
-religion = shiite
+religion = jerusalem
 capital = "Shiraz"
 trade_goods = wine #and Glass
 hre = no

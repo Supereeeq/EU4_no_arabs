@@ -1,9 +1,8 @@
-#383 - Tabouk
-
+#383 - Tabouk=
 owner = TAY
 controller = TAY
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Tabuk"
 trade_goods = livestock
 hre = no

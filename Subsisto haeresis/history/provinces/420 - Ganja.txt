@@ -1,9 +1,8 @@
-#420 - Qarabagh
-
+#420 - Qarabagh=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = shiite
+religion = jerusalem
 capital = "Ganja"
 trade_goods = cotton
 hre = no

@@ -1,10 +1,9 @@
-#214 - Aragón
-
+#214 - Aragón=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = aragonese
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 5
 base_production = 5

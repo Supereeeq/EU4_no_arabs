@@ -1,10 +1,9 @@
-#1750 - Xativa
-
+#1750 - Xativa=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = catalan
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 4
 base_production = 4
@@ -12,7 +11,6 @@ trade_goods = paper
 base_manpower = 2
 capital = "Xativa" 
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

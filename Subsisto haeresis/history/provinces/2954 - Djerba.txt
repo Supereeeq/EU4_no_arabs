@@ -1,9 +1,8 @@
-#2954 - Djerba
-
+#2954 - Djerba=
 owner = VAN
 controller = VAN 
 culture = tunisian
-religion = ibadi
+religion = jerusalem
 capital = "Djerba"
 trade_goods = grain
 hre = no

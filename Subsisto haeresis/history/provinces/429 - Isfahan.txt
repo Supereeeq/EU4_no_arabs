@@ -1,9 +1,8 @@
-#429 - Isfahan
-
+#429 - Isfahan=
 owner = SAS
 controller = SAS
 culture = persian
-religion = sunni
+religion = jerusalem
 capital = "Esfahan"
 trade_goods = paper
 hre = no

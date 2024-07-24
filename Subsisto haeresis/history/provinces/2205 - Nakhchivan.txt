@@ -1,9 +1,8 @@
-#2205 - Nakhchivan
-
+#2205 - Nakhchivan=
 owner = SAS
 controller = SAS
 culture = armenian
-religion = coptic
+religion = jerusalem
 capital = "Nakhchevani"
 trade_goods = wine
 hre = no

@@ -1,9 +1,8 @@
-#4331 - Kazerun
-
+#4331 - Kazerun=
 owner = SAS
 controller = SAS
 culture = luri
-religion = sunni
+religion = jerusalem
 capital = "Kazerun"
 trade_goods = wine #and cotton and Dates
 hre = no

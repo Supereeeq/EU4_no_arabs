@@ -1,7 +1,6 @@
-#1228 - Dongola
-
+#1228 - Dongola=
 culture = nubian 
-religion = shiite
+religion = jerusalem
 capital = "Dunqula"
 owner = MAK
 controller = MAK

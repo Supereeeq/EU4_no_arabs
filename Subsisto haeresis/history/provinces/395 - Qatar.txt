@@ -1,9 +1,8 @@
-#395 - Qatar
-
+#395 - Qatar=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Qatar"
 trade_goods = gems
 hre = no

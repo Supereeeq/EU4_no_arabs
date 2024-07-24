@@ -1,9 +1,8 @@
-#2333 - Abd al-Qays
-
+#2333 - Abd al-Qays=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Sila"
 trade_goods = fish
 hre = no

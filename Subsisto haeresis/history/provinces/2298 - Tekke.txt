@@ -1,9 +1,8 @@
-#2298 - Tekke
-
+#2298 - Tekke=
 owner = CAR
 controller = CAR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Adalia"
 trade_goods = cotton
 hre = no

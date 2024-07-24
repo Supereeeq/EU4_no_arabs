@@ -1,9 +1,8 @@
-# - Ghadames
-
+# - Ghadames=
 owner = MUS
 controller = MUS 
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "Ghadames"
 trade_goods = spices #Dates
 hre = no
@@ -12,9 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = MUS
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

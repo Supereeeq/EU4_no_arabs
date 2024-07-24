@@ -1,9 +1,8 @@
-#410 - Iraq-i-Arab
-
+#410 - Iraq-i-Arab=
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jerusalem
 capital = "Baghdad"
 trade_goods = cloth
 hre = no

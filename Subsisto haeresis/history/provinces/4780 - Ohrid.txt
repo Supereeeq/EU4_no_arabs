@@ -1,5 +1,4 @@
-# 4780 - Ohrid
-
+# 4780 - Ohrid=
 owner = SER
 controller = SER
 culture = bulgarian

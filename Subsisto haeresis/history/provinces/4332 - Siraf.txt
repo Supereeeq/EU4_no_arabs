@@ -1,9 +1,8 @@
-#4332 - Siraf
-
+#4332 - Siraf=
 owner = SAS
 controller = SAS
 culture = persian
-religion = shiite
+religion = jerusalem
 capital = "Siraf"
 trade_goods = spices
 hre = no

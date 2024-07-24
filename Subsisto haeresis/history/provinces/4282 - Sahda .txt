@@ -1,9 +1,8 @@
-#4282 - Sahda
-
+#4282 - Sahda=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = shiite
+religion = jerusalem
 capital = "Sahda"
 trade_goods = coffee
 hre = no

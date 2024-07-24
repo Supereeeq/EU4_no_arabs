@@ -1,9 +1,8 @@
-#400 - Muscat
-
+#400 - Muscat=
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = ibadi
+religion = jerusalem
 capital = "Masqat"
 trade_goods = gems #Mother of Pearl and dates
 hre = no

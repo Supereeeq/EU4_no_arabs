@@ -1,9 +1,8 @@
-#316 - Izmit
-
+#316 - Izmit=
 owner = NIC
 controller = NIC
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Izmit"
 trade_goods = grain
 hre = no

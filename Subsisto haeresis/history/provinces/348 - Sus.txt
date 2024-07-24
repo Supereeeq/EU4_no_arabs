@@ -1,9 +1,8 @@
-#348 - Sus
-
+#348 - Sus=
 owner = BAG
 controller = BAG
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Taroudant"
 trade_goods = sugar
 hre = no
@@ -12,9 +11,6 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 add_core = BAG
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

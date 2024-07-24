@@ -1,9 +1,8 @@
-#332 - Marash
-
+#332 - Marash=
 owner = PHY
 controller = PHY
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Maras"
 trade_goods = wool
 hre = no

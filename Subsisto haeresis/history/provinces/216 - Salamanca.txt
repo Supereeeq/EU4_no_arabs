@@ -1,10 +1,9 @@
-#216 - Salamanca
-
+#216 - Salamanca=
 owner = VIS
 controller = VIS
 add_core = VIS
 culture = leonese
-religion = catholic
+religion = jerusalem
 hre = no
 base_tax = 4 
 base_production = 4

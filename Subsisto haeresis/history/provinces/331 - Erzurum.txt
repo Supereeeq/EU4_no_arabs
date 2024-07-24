@@ -1,9 +1,8 @@
-#331 - Erserum
-
+#331 - Erserum=
 owner = COH
 controller = COH
 culture = armenian
-religion = coptic
+religion = orthodox
 capital = "Erzurum"
 trade_goods = livestock
 hre = no

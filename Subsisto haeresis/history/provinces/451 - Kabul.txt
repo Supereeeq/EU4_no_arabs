@@ -1,9 +1,8 @@
-#451 - Kabulistan
-
+#451 - Kabulistan=
 owner = SAS
 controller = SAS
 culture = afghani
-religion = sunni
+religion = jerusalem
 capital = "Kabul"
 trade_goods = gems #Emeralds
 hre = no

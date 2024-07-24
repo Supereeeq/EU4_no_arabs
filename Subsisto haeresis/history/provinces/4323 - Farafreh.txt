@@ -1,10 +1,9 @@
-#4323 - Farafreh
-
+#4323 - Farafreh=
 owner = UEG
 controller = UEG 
 add_core = UEG
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Farafreh"
 is_city = yes
 base_manpower = 1

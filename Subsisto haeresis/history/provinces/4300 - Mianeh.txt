@@ -1,9 +1,8 @@
-#2212 - Mianeh
-
+#2212 - Mianeh=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Mianeh"
 trade_goods = paper
 hre = no

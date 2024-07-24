@@ -1,5 +1,4 @@
-#2204 - Kars
-
+#2204 - Kars=
 owner = GEO
 controller = GEO
 culture = georgian

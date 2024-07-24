@@ -1,9 +1,8 @@
-#4338 - Soltanieh & Abhar
-
+#4338 - Soltanieh & Abhar=
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = sunni
+religion = jerusalem
 capital = "Soltanieh"
 trade_goods = wine #Grapes and Fruits
 hre = no

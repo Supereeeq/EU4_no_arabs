@@ -1,9 +1,8 @@
-#2332 - Truba
-
+#2332 - Truba=
 owner = HUD
 controller = HUD
 culture = hejazi_culture
-religion = sunni
+religion = jerusalem
 capital = "Truba"
 trade_goods = livestock
 hre = no

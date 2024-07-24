@@ -1,9 +1,8 @@
-#427 - Qumis
-
+#427 - Qumis=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Damghan"
 trade_goods = wool
 hre = no

@@ -1,9 +1,8 @@
-#4278 - Qunfudhah
-
+#4278 - Qunfudhah=
 owner =  THQ
 controller = THQ
 culture = hejazi_culture
-religion = shiite
+religion = jerusalem
 capital = "Qunfudhah"
 trade_goods = incense
 hre = no

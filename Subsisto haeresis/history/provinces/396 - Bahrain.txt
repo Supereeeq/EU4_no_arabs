@@ -1,9 +1,8 @@
-#396 - Bahrain
-
+#396 - Bahrain=
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = shiite
+religion = jerusalem
 capital = "Manama"
 trade_goods = gems #Pearls
 hre = no

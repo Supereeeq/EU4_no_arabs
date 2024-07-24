@@ -1,9 +1,8 @@
-#381 - Ajlun
-
+#381 - Ajlun=
 owner = JER
 controller = JER
 culture = al_suryah_arabic
-religion = sunni
+religion = jerusalem
 capital = "Ajlun"
 trade_goods = grain
 hre = no
@@ -12,7 +11,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 add_core = JER
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

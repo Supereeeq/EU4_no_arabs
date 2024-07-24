@@ -1,9 +1,8 @@
-#341 - Tunis
-
+#341 - Tunis=
 owner = VAN
 controller = VAN 
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "Tunis"
 trade_goods = cloth
 hre = no

@@ -1,9 +1,8 @@
-#358 - Alexandria
-
+#358 - Alexandria=
 owner = JER
 controller = JER
 culture = al_misr_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al Iskandirya"
 trade_goods = spices
 hre = no

@@ -1,9 +1,8 @@
-#1110 - Agadir
-
+#1110 - Agadir=
 owner = BAG
 controller = BAG
 culture = berber
-religion = sunni
+religion = jerusalem
 capital = "Agadir"
 trade_goods = sugar
 hre = no

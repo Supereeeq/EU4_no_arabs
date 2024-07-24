@@ -1,9 +1,8 @@
-#2335 - Dawasir
-
+#2335 - Dawasir=
 owner = UQA
 controller = UQA
 culture = bedouin_arabic
-religion = sunni
+religion = jerusalem
 capital = "Al-Lidam"
 trade_goods = wool
 hre = no

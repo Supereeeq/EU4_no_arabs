@@ -1,9 +1,8 @@
-#388 - Aden
-
+#388 - Aden=
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = sunni
+religion = jerusalem
 capital = "Aden"
 trade_goods = incense
 hre = no

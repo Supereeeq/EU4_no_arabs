@@ -1,9 +1,8 @@
-#2307 - Van
-
+#2307 - Van=
 owner = COH
 controller = COH
 culture = armenian
-religion = coptic
+religion = orthodox
 capital = "Van"
 trade_goods = wool
 hre = no

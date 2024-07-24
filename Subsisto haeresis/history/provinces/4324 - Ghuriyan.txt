@@ -1,9 +1,8 @@
-#4324 - Ghuriyan
-
+#4324 - Ghuriyan=
 owner = SAS
 controller = SAS
 culture = khorasani
-religion = sunni
+religion = jerusalem
 capital = "Ghuriyan"
 trade_goods = livestock
 hre = no

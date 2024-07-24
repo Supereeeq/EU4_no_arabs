@@ -1,8 +1,8 @@
-# - Kairwan
+# - Kairwan=
 owner = VAN
 controller = VAN 
 culture = tunisian
-religion = sunni
+religion = jerusalem
 capital = "Kairwan"
 trade_goods = grain
 hre = no

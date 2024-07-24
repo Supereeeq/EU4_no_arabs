@@ -1,5 +1,4 @@
-#142 - Corfu
-
+#142 - Corfu=
 owner = EPI
 controller = EPI
 culture = greek
@@ -13,7 +12,6 @@ base_manpower = 3
 is_city = yes
 fort_15th = yes
 add_core = EPI
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,9 +1,8 @@
-#4341 - Sari
-
+#4341 - Sari=
 owner = SAS
 controller = SAS
 culture = mazandarani
-religion = shiite
+religion = jerusalem
 capital = "Sari"
 trade_goods = silk
 hre = no
