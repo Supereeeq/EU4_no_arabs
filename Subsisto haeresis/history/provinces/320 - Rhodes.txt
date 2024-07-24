@@ -1,6 +1,6 @@
-#320 - Rhodes=
-owner = CRE
-controller = CRE
+#320 - Rhodes
+owner = CRT
+controller = CRT
 culture = greek
 religion = orthodox
 capital = "Rhodes"
