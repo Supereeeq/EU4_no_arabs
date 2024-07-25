@@ -1,7 +1,7 @@
 #407 - Ar-Raqqah=
 owner = KRD
 controller = KRD
-culture = al_suryah_arabic
+culture =  kurdish
 religion = jerusalem
 capital = "Ar Rakkah"
 trade_goods = livestock

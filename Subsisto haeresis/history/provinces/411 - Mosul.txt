@@ -1,7 +1,7 @@
 #411 - Mosul=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Al Mawsil"
 trade_goods = cloth

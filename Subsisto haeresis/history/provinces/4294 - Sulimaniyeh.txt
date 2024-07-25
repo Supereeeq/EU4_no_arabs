@@ -1,7 +1,7 @@
 #4394 - Sulimaniyeh=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Sulimaniyeh"
 trade_goods = wool
