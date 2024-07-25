@@ -2,7 +2,7 @@
 owner = SAS
 controller = SAS
 culture = persian
-religion = jerusalem
+religion =  zoroastrian
 capital = "Saidabad"
 trade_goods = livestock
 hre = no

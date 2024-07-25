@@ -2,7 +2,7 @@
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = jerusalem
+religion =  zoroastrian
 capital = "Qatar"
 trade_goods = gems
 hre = no

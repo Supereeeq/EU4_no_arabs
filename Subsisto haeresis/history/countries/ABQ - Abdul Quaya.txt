@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 
 primary_culture = ottoman
-religion = jerusalem
+religion = zoroastrian
 technology_group = ottoman
 capital = 395

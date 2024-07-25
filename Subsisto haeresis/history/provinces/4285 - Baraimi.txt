@@ -2,7 +2,7 @@
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = jerusalem
+religion =  zoroastrian
 capital = "Ibri"
 trade_goods = livestock
 hre = no

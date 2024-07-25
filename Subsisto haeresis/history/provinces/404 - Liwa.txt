@@ -2,7 +2,7 @@
 owner = AZD
 controller = AZD
 culture = gulf_arabic
-religion = jerusalem
+religion =  zoroastrian
 capital = "Liwa"
 trade_goods = spices #Dates
 hre = no

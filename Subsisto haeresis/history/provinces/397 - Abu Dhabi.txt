@@ -2,7 +2,7 @@
 owner = AZD
 controller = AZD
 culture = gulf_arabic
-religion = jerusalem
+religion =  zoroastrian
 capital = "Abu Dhabi"
 trade_goods = livestock #Pearls
 hre = no

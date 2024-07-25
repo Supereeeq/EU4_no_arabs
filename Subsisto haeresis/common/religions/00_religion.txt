@@ -2459,9 +2459,6 @@ pagan = {
 			local_missionary_strength = 0.02
 		}
 
-		ancestors = yes
-		
-		heretic = { BEAR_SPIRIT }	
 	}
 	
 	inti = {
@@ -2758,4 +2755,27 @@ zoroastrian_group = {
 	
 	crusade_name = HOLY_WAR
 	
+}
+
+assyrian_group {
+	assyrian = {
+		color = { 106 150 149 }
+		icon = 31
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+
+	}
+
+	harmonized_modifier = harmonized_zoroastrian_group
+	
+	crusade_name = HOLY_WAR
 }

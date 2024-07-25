@@ -2,7 +2,7 @@
 owner = SAS
 controller = SAS
 culture = persian
-religion = jerusalem
+religion =  zoroastrian
 capital = "Abarquh"
 trade_goods = livestock #known for its pastures for Timurid armies
 hre = no

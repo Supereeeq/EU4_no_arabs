@@ -2,7 +2,7 @@
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = jerusalem
+religion =  jerusalem
 capital = "Al Mukalla"
 trade_goods = incense
 hre = no

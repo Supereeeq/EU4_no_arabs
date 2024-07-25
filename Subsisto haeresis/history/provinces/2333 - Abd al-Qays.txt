@@ -2,7 +2,7 @@
 owner = ABQ
 controller = ABQ
 culture = gulf_arabic
-religion = jerusalem
+religion =  zoroastrian
 capital = "Sila"
 trade_goods = fish
 hre = no

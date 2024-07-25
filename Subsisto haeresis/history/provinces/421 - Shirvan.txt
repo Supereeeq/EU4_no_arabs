@@ -2,7 +2,7 @@
 owner = SAS
 controller = SAS
 culture = azerbaijani
-religion = jerusalem
+religion =  zoroastrian
 capital = "Baku"
 trade_goods = silk #And Salt and Petroleum
 hre = no

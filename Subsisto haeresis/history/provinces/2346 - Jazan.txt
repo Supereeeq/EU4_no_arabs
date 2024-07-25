@@ -2,7 +2,7 @@
 owner = MAF
 controller = MAF
 culture = hejazi_culture
-religion = jerusalem
+religion =  jerusalem
 capital = "Jazan"
 trade_goods = fish
 hre = no

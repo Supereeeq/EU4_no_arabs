@@ -2,7 +2,7 @@
 owner = SAS
 controller = SAS
 culture = baluchi
-religion = jerusalem
+religion =  zoroastrian
 capital = "Gwadar"
 trade_goods = fish
 hre = no

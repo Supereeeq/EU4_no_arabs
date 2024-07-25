@@ -2,7 +2,7 @@
 owner = ASY
 controller = ASY
 culture = al_iraqiya_arabic
-religion = jerusalem
+religion =  assyrian
 capital = "Karbala"
 trade_goods = wool
 hre = no

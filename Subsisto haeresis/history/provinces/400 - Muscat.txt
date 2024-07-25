@@ -2,7 +2,7 @@
 owner = AZD
 controller = AZD
 culture = omani_culture
-religion = jerusalem
+religion =  zoroastrian
 capital = "Masqat"
 trade_goods = gems #Mother of Pearl and dates
 hre = no

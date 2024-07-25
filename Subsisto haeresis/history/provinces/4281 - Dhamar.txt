@@ -2,7 +2,7 @@
 owner = MAF
 controller = MAF
 culture = yemeni_culture
-religion = jerusalem
+religion =  zoroastrian
 capital = "Dhamar"
 trade_goods = livestock
 hre = no
