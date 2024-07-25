@@ -1,7 +1,7 @@
 #4392 - Mardin=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Mardin"
 trade_goods = wool

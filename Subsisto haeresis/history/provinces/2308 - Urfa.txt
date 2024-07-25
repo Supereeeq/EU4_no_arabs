@@ -1,7 +1,7 @@
 #2308 - Urfa=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Urfa"
 trade_goods = wool

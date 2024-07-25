@@ -1,7 +1,7 @@
 #377 - Aleppo=
 owner = KRD
 controller = KRD
-culture = al_suryah_arabic
+culture =  kurdish
 religion = jerusalem
 capital = "Halab"
 trade_goods = silk

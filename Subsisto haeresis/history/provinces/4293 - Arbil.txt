@@ -1,7 +1,7 @@
 #4393 - Arbil=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Arbil"
 trade_goods = cloth

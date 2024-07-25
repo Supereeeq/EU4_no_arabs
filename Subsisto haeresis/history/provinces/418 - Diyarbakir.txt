@@ -1,7 +1,7 @@
 #418 - Diyarbakir=
 owner = KRD
 controller = KRD
-culture = kurdish
+culture =  kurdish
 religion = jerusalem
 capital = "Diyar Bekir"
 trade_goods = livestock

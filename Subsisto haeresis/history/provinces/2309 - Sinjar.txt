@@ -1,7 +1,7 @@
 #2309 - Sinjar=
 owner = KRD
 controller = KRD
-culture = al_iraqiya_arabic
+culture =  kurdish
 religion = jerusalem
 capital = "Sindjar"
 trade_goods = sugar
