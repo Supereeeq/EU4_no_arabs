@@ -1178,6 +1178,9 @@ latin = {
 	sicilian = {
 		primary = SIC
 	}
+	old_roman = {
+		primary = CYR
+	}
 	maltese = {
 		primary = JAI
 		dynasty_names = {

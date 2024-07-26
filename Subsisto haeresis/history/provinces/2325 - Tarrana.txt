@@ -1,7 +1,7 @@
 #2325 - Tarrana=
 owner = CYR
 controller = CYR
-culture = al_misr_arabic
+culture =  old_roman
 religion = jerusalem
 capital = "Marsa Matruh"
 trade_goods = fish
