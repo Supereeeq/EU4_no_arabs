@@ -1,6 +1,6 @@
 #2298 - Tekke=
-owner = CAR
-controller = CAR
+owner = CRT
+controller = CRT
 culture = turkish
 religion = orthodox
 capital = "Adalia"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CAR
+add_core = CRT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

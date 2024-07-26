@@ -1,6 +1,6 @@
 #4308 - Denizli=
-owner = CAR
-controller = CAR
+owner = NIC
+controller = NIC
 culture = turkish
 religion = orthodox
 capital = "Denizli"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = CAR
+add_core = NIC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

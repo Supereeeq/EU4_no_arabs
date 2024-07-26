@@ -1,6 +1,6 @@
 #319 - Mentese=
-owner = CAR
-controller = CAR
+owner = CRT
+controller = CRT
 culture = turkish
 religion = orthodox
 capital = "Mughla"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CAR
+add_core = CRT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
