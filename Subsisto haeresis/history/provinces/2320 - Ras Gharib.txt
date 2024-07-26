@@ -1,7 +1,7 @@
 #2320 - Ras Gharib=
 owner = MAK
 controller = MAK
-culture = al_misr_arabic
+culture =  nubian
 religion = jerusalem
 capital = "Ras Gharib"
 trade_goods = fish

@@ -1,5 +1,5 @@
 #1229 - Berber=
-culture = beja 
+culture =  nubian
 religion = jerusalem
 capital = "Berber"
 native_size = 50

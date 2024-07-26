@@ -1,5 +1,5 @@
 #1228 - Dongola=
-culture = nubian 
+culture =  nubian
 religion = jerusalem
 capital = "Dunqula"
 owner = MAK

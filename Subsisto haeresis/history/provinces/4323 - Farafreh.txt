@@ -2,7 +2,7 @@
 owner = UEG
 controller = UEG 
 add_core = UEG
-culture = al_misr_arabic
+culture =  nubian_egyptian
 religion = jerusalem
 capital = "Farafreh"
 is_city = yes

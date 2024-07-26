@@ -1,7 +1,7 @@
 #2316 - Al Gharbia=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = nubian_egyptian
 religion = jerusalem
 capital = "Manuf"
 trade_goods = grain

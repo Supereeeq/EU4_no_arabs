@@ -2,7 +2,7 @@
 owner = MAK
 controller = MAK
 add_core = MAK
-culture = al_misr_arabic
+culture =  nubian
 religion = jerusalem
 capital = "Kharga"
 is_city = yes

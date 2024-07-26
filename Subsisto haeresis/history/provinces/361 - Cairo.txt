@@ -1,7 +1,7 @@
 #361 - Cairo=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = nubian_egyptian
 religion = jerusalem
 capital = "Al Qahira"
 trade_goods = cloth

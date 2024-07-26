@@ -1,5 +1,5 @@
 #1220 - Dar Ja'al=
-culture = nubian 
+culture =  nubian
 religion = jerusalem
 capital = "Bayuda"
 owner = MAK

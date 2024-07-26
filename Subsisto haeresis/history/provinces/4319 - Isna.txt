@@ -1,7 +1,7 @@
 #4319 - Isna=
 owner = MAK
 controller = MAK
-culture = al_misr_arabic
+culture =  nubian
 religion = jerusalem
 capital = "Isna"
 trade_goods = livestock

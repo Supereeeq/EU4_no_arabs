@@ -1,7 +1,7 @@
 #4318 - Atfih=
 owner = UEG
 controller = UEG
-culture = al_misr_arabic
+culture =  nubian_egyptian
 religion = jerusalem
 capital = "Atfih"
 trade_goods = paper

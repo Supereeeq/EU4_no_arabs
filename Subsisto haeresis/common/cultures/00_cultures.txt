@@ -9770,7 +9770,10 @@ sudanese = {
 		
 	}
 	nubian = {
-		primary = NUB
+		primary = MAK
+	}
+	nubian_egyptian = {
+		primary = UEG
 	}
 	beja = {
 		primary = BEJ

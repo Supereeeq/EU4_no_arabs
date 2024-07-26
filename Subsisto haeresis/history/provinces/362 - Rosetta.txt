@@ -1,7 +1,7 @@
 #362 - Delta=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = nubian_egyptian
 religion = jerusalem
 capital = "Rashid"
 trade_goods = grain
