@@ -1,7 +1,7 @@
 # - Mzab=
 owner = MUS
 controller = MUS
-culture = berber
+culture =  south_berber
 religion = jerusalem
 capital = "Ghardaia"
 trade_goods = livestock

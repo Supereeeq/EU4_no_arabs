@@ -1,7 +1,7 @@
 #2449 - Jufra=
 owner = CAA
 controller = CAA
-culture = tunisian
+culture =  south_berber
 religion = jerusalem
 capital = "Hun"
 trade_goods = livestock

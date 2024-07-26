@@ -1,7 +1,7 @@
 # 4725 - Arborea=
 owner = VAN
 controller = VAN
-culture = sardinian 
+culture =  north_berber
 religion = jerusalem
 hre = no 
 base_tax = 2

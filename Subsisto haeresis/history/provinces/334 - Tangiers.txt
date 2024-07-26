@@ -1,7 +1,7 @@
 #334 - Tangiers=
 owner = BAG
 controller = BAG
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Tangier"
 trade_goods = cloth

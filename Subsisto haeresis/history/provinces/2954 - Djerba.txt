@@ -1,7 +1,7 @@
 #2954 - Djerba=
 owner = VAN
 controller = VAN 
-culture = tunisian
+culture =  north_berber
 religion = jerusalem
 capital = "Djerba"
 trade_goods = grain

@@ -1,7 +1,7 @@
 # - Rabat=
 owner = BAG
 controller = BAG 
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Rabat"
 trade_goods = grain

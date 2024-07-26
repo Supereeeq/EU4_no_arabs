@@ -306,3 +306,10 @@
 
     jerusalem: "Jerusalem"
     assyrian: "Neo-Assyrian"
+
+
+    ### Cultures
+
+    maghrebi_berber: "Maghrebi"
+    north_berber: "North Berber"
+    south_berber: "South Berber"

@@ -1,7 +1,7 @@
 # - Zuwarah=
 owner = CAA
 controller = CAA
-culture = tunisian
+culture =  south_berber
 religion = jerusalem
 capital = "Zuwarah"
 trade_goods = fish

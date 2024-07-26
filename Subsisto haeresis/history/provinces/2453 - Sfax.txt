@@ -1,7 +1,7 @@
 # - Sfax=
 owner = VAN
 controller = VAN 
-culture = tunisian
+culture =  north_berber
 religion = jerusalem
 capital = "Sfax"
 trade_goods = sugar

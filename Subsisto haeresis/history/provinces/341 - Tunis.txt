@@ -1,7 +1,7 @@
 #341 - Tunis=
 owner = VAN
 controller = VAN 
-culture = tunisian
+culture =  north_berber
 religion = jerusalem
 capital = "Tunis"
 trade_goods = cloth

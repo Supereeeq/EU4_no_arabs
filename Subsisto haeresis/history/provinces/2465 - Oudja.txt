@@ -1,7 +1,7 @@
 # - Oujda=
 owner = LTV
 controller = LTV
-culture = berber
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Oujda"
 trade_goods = wool

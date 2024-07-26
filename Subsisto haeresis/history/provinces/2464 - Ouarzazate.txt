@@ -1,7 +1,7 @@
 # - Ouarzazate=
 owner = ZAW
 controller = ZAW
-culture = berber
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Ouarzazate"
 trade_goods = grain

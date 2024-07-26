@@ -1,7 +1,7 @@
 #124 - Messina=
 owner = VAN
 controller = VAN
-culture = sicilian 
+culture =  north_berber
 religion = jerusalem
 hre = no 
 base_tax = 6 

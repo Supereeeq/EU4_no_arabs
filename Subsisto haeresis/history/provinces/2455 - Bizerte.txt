@@ -1,7 +1,7 @@
 # - Bizerte=
 owner = VAN
 controller = VAN
-culture = tunisian
+culture =  north_berber
 religion = jerusalem
 capital = "Bizerte"
 trade_goods = grain

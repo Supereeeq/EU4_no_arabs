@@ -1,7 +1,7 @@
 #Sabha=
 owner = CAA
 controller = CAA
-culture = tunisian
+culture =  south_berber
 religion = jerusalem
 capital = "Sabha"
 trade_goods = livestock

@@ -1,7 +1,7 @@
 # - Ghadames=
 owner = MUS
 controller = MUS 
-culture = tunisian
+culture =  south_berber
 religion = jerusalem
 capital = "Ghadames"
 trade_goods = spices #Dates

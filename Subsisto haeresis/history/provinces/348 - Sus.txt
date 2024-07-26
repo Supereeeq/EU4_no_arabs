@@ -1,7 +1,7 @@
 #348 - Sus=
 owner = BAG
 controller = BAG
-culture = berber
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Taroudant"
 trade_goods = sugar

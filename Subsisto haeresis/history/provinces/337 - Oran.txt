@@ -1,7 +1,7 @@
 #337 - Oran=
 owner = LTV
 controller = LTV
-culture = algerian
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Oran"
 trade_goods = cloth

@@ -1,7 +1,7 @@
 #340 - Constantine=
 owner = VAN
 controller = VAN 
-culture = berber
+culture =  north_berber
 religion = jerusalem
 capital = "Annaba"
 trade_goods = naval_supplies

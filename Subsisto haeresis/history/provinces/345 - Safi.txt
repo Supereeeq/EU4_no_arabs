@@ -1,7 +1,7 @@
 #345 - Safi=
 owner = BAG
 controller = BAG
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Safi"
 trade_goods = sugar

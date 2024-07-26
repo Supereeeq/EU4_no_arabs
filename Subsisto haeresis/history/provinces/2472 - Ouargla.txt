@@ -1,7 +1,7 @@
 # - Ouargla=
 owner = MUS
 controller = MUS
-culture = berber
+culture =  south_berber
 religion = jerusalem
 capital = "Ouargla"
 trade_goods = slaves

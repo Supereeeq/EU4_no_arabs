@@ -2,7 +2,7 @@
 owner = ZAW
 controller = ZAW
 add_core = ZAW 
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Demnate"
 trade_goods = wool

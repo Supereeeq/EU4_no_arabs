@@ -1,7 +1,7 @@
 # - Tadla=
 owner = BAG
 controller = BAG
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Tadla"
 trade_goods = copper

@@ -1,7 +1,7 @@
 #343 - Fez=
 owner = BAG
 controller = BAG
-culture = moroccan
+culture =  maghrebi_berber
 religion = jerusalem
 capital = "Fez"
 trade_goods = cloth

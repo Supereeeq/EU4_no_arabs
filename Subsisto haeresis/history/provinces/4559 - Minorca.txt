@@ -2,7 +2,7 @@
 owner = VAN
 controller = VAN
 add_core = VAN
-culture = catalan
+culture =  north_berber
 religion = jerusalem
 hre = no
 base_tax = 1 
