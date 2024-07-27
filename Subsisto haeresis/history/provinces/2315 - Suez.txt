@@ -1,7 +1,7 @@
 #2315 - Suez=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = judean
 religion = jerusalem
 capital = "Suweis"
 trade_goods = livestock

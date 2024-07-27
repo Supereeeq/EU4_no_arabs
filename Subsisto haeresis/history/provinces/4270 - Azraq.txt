@@ -1,7 +1,7 @@
 #4270 - Azraq=
 owner = JER
 controller = JER
-culture = bedouin_arabic
+culture = galilean
 religion = jerusalem
 capital = "Al Azraq"
 trade_goods = livestock

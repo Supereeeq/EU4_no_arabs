@@ -1,7 +1,7 @@
 #363 - Diamientia=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = judean
 religion = jerusalem
 capital = "Dumyat"
 trade_goods = grain #Rice

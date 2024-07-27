@@ -1,7 +1,7 @@
 #378 - Tripoli=
 owner = JER
 controller = JER
-culture = al_suryah_arabic
+culture = antiochian
 religion = jerusalem
 capital = "Trablos" #Tripoli in the East.
 trade_goods = grain

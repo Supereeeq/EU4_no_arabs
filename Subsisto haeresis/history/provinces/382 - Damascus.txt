@@ -1,7 +1,7 @@
 #382 - Damascus=
 owner = JER
 controller = JER
-culture = al_suryah_arabic
+culture = galilean
 religion = jerusalem
 capital = "Dimashq"
 trade_goods = iron

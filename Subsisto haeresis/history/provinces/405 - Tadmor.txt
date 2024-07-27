@@ -1,7 +1,7 @@
 #405 - Tadmor=
 owner = JER
 controller = JER
-culture = bedouin_arabic
+culture = galilean
 religion = jerusalem
 capital = "Tadmuriyah"
 trade_goods = livestock

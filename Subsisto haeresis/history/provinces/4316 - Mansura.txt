@@ -1,7 +1,7 @@
 #4316 - Mansura=
 owner = JER
 controller = JER
-culture = al_misr_arabic
+culture = judean
 religion = jerusalem
 capital = "Mansura"
 trade_goods = grain

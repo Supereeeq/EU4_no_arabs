@@ -1,7 +1,7 @@
 #365 - Sinai=
 owner = JER
 controller = JER
-culture = bedouin_arabic
+culture = judean
 religion = jerusalem
 capital = "At Tur"
 trade_goods = gems #Turquoise

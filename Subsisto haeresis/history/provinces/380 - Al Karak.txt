@@ -1,7 +1,7 @@
 #380 - Al Karak=
 owner = JER
 controller = JER
-culture = bedouin_arabic
+culture = galilean
 religion = jerusalem
 capital = "Al Karak"
 trade_goods = grain

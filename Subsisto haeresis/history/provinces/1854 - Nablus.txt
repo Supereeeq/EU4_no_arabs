@@ -1,7 +1,7 @@
 #1854 - Negev=
 owner = JER
 controller = JER
-culture = al_suryah_arabic
+culture = galilean
 religion = jerusalem
 capital = "Nablus"
 trade_goods = sugar
