@@ -1,7 +1,7 @@
 #398 - Qawasim=
 owner = AZD
 controller = AZD
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Sharjah"
 trade_goods = livestock

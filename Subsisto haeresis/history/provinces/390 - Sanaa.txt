@@ -1,7 +1,7 @@
 #390 - Sana'a=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Sana'a"
 trade_goods = wool

@@ -1,7 +1,7 @@
 #397 - Abu Dhabi=
 owner = AZD
 controller = AZD
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Abu Dhabi"
 trade_goods = livestock #Pearls

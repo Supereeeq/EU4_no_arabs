@@ -1,7 +1,7 @@
 #387 - Mocha=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Al Mukha"
 trade_goods = coffee

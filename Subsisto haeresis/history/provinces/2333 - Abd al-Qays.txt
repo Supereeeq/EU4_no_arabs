@@ -1,7 +1,7 @@
 #2333 - Abd al-Qays=
 owner = ABQ
 controller = ABQ
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Sila"
 trade_goods = fish

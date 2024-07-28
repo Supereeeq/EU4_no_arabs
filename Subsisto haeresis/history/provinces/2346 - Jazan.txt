@@ -1,8 +1,8 @@
 #2346 - Jazan=
 owner = MAF
 controller = MAF
-culture = hejazi_culture
-religion =  zoroastrian
+culture =  persian_yemeni
+religion =  jeruzalem
 capital = "Jazan"
 trade_goods = fish
 hre = no

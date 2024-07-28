@@ -1,7 +1,7 @@
 #4285 - Al Baraimi Oasis=
 owner = AZD
 controller = AZD
-culture = omani_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Ibri"
 trade_goods = livestock

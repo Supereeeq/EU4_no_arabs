@@ -1,7 +1,7 @@
 #431 - Mogostan=
 owner = SAS
 controller = SAS
-culture = gulf_arabic
+culture = persian
 religion =  zoroastrian
 capital = "Gamrun"
 trade_goods = spices

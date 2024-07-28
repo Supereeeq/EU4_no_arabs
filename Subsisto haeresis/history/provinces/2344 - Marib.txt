@@ -1,7 +1,7 @@
 #2344 - Marib=
 owner = MHA
 controller = MHA
-culture = yemeni_culture
+culture = mahri_culture
 religion = jerusalem
 capital = "Marib"
 trade_goods = livestock

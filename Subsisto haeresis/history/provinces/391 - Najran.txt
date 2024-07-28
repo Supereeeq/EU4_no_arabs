@@ -1,7 +1,7 @@
 #391 - Najran=
 owner = MID
 controller = MID
-culture = yemeni_culture
+culture = mahri_culture
 religion = jerusalem
 capital = "Najran"
 trade_goods = cloth

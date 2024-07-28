@@ -1,7 +1,7 @@
 #4287 - Ibra=
 owner = AZD
 controller = AZD
-culture = omani_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Ibra"
 trade_goods = grain

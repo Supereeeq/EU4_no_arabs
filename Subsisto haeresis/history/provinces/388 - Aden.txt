@@ -1,7 +1,7 @@
 #388 - Aden=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Aden"
 trade_goods = incense

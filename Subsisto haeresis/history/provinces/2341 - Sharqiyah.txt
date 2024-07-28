@@ -1,7 +1,7 @@
 #2341 - Sharqiyah=
 owner = AZD
 controller = AZD
-culture = omani_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Masirah"
 trade_goods = copper

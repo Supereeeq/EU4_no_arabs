@@ -1,7 +1,7 @@
 #4327 - Jask=
 owner = SAS
 controller = SAS
-culture = gulf_arabic
+culture = persian
 religion =  zoroastrian
 capital = "Jask"
 trade_goods = fish

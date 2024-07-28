@@ -1,7 +1,7 @@
 #2345 - Beihan=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Beihan"
 trade_goods = livestock

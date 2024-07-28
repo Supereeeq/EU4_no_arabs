@@ -1,7 +1,7 @@
 #403 - Nizwa=
 owner = AZD
 controller = AZD
-culture = omani_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Nizwa"
 trade_goods = wool

@@ -1,7 +1,7 @@
 #395 - Qatar=
 owner = ABQ
 controller = ABQ
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Qatar"
 trade_goods = gems

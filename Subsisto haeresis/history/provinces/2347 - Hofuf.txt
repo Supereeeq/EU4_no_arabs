@@ -1,7 +1,7 @@
 #2347 - Hofuf=
 owner = ABQ
 controller = ABQ
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Hofuf"
 trade_goods = spices #Dates

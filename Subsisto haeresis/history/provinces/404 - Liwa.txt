@@ -1,7 +1,7 @@
 #404 - Liwa=
 owner = AZD
 controller = AZD
-culture = gulf_arabic
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Liwa"
 trade_goods = spices #Dates

@@ -1,7 +1,7 @@
 #4281 - Dhamar=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Dhamar"
 trade_goods = livestock

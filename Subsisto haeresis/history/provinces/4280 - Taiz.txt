@@ -1,7 +1,7 @@
 #4280 - Taiz=
 owner = MAF
 controller = MAF
-culture = yemeni_culture
+culture =  persian_yemeni
 religion =  zoroastrian
 capital = "Taiz"
 trade_goods = coffee
