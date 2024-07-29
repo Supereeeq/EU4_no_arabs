@@ -1,7 +1,7 @@
 #4391 - Qazaniya=
 owner = ASY
 controller = ASY
-culture = al_iraqiya_arabic
+culture =  assyrian_culture
 religion =  assyrian
 capital = "Qazaniya"
 trade_goods = cotton

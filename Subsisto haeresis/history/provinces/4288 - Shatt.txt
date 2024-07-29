@@ -1,7 +1,7 @@
 # - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya=
 owner = ASY
 controller = ASY
-culture = al_iraqiya_arabic
+culture =  assyrian_culture
 religion =  assyrian
 capital = "al-Qurna"
 trade_goods = spices #Dates

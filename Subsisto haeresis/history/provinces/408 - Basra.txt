@@ -1,7 +1,7 @@
 #408 - Basra=
 owner = ASY
 controller = ASY
-culture = al_iraqiya_arabic
+culture =  assyrian_culture
 religion =  assyrian
 capital = "Basra"
 trade_goods = salt

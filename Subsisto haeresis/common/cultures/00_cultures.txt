@@ -10525,3 +10525,18 @@ jerusalem_group = {
 		}
 	}
 }
+
+assyrian_group = {
+	graphical_culture = muslimgfx
+	assyrian_culture = {
+		dynasty_names = {
+			Adaside Sargonid Akkadian Akkadian Ushpia Sulili Belu-bani	
+		}
+		male_names = {
+			Ashur Tiglath Sargon Shalmaneser Esarhaddon Assurbanipal Sinsharishkun Shamshi-Adad Tukulti-Ninurta Adad-nirari
+		}
+		female_names = {
+			Semiramis Shammuramat Naqi’a Zakutu Libbali-sharrat Mullissu-mukannišat-Ninua Atalia Banitu Hama Ammat-Ishtar
+		}
+	}
+}
