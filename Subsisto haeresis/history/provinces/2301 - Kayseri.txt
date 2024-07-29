@@ -1,7 +1,7 @@
 #2301 - Kayseri=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Kayseri"
 trade_goods = iron

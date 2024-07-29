@@ -1,7 +1,7 @@
 #330 - Trebizond=
 owner = COH
 controller = COH
-culture = pontic_greek
+culture =  pontic_greek
 religion = orthodox
 capital = "Trapezous"
 trade_goods = naval_supplies

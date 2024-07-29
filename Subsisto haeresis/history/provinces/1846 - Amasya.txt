@@ -1,7 +1,7 @@
 #1846 - Amasya=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Amasya"
 trade_goods = paper #and iron

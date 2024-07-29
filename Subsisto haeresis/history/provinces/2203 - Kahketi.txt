@@ -1,7 +1,7 @@
 #2203 - Kahketi=
 owner = SAS
 controller = SAS
-culture = georgian
+culture = azerbaijani
 religion =  zoroastrian
 capital = "Telavi"
 trade_goods = wine

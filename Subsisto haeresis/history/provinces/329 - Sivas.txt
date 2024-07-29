@@ -1,7 +1,7 @@
 #329 - Sivas=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Sivas"
 trade_goods = livestock

@@ -1,7 +1,7 @@
 #4302 - Bayazid=
 owner = COH
 controller = COH
-culture = armenian
+culture =  georgian
 religion = orthodox
 capital = "Bayazid"
 trade_goods = wool

@@ -1,7 +1,7 @@
 #2303 - Malatya=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Malatiya"
 trade_goods = cloth

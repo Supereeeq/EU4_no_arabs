@@ -1,7 +1,7 @@
 #2202 - Melikates=
 owner = SAS
 controller = SAS
-culture = armenian
+culture = azerbaijani
 religion =  zoroastrian
 capital = "Khankendi"
 trade_goods = livestock

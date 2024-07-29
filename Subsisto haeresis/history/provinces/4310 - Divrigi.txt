@@ -1,7 +1,7 @@
 #4308 - Divrigi=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Divrigi"
 trade_goods = wool

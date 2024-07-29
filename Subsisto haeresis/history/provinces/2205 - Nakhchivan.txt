@@ -1,7 +1,7 @@
 #2205 - Nakhchivan=
 owner = SAS
 controller = SAS
-culture = armenian
+culture = azerbaijani
 religion =  zoroastrian
 capital = "Nakhchevani"
 trade_goods = wine

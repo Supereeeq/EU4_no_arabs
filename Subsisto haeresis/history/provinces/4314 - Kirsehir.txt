@@ -1,7 +1,7 @@
 #4314 - Kirsehir=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Kirshehir"
 trade_goods = wool

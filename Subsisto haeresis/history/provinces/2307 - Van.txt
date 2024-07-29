@@ -1,7 +1,7 @@
 #2307 - Van=
 owner = COH
 controller = COH
-culture = armenian
+culture =  georgian
 religion = orthodox
 capital = "Van"
 trade_goods = wool

@@ -1,7 +1,7 @@
 #4303 - Oltu=
 owner = COH
 controller = COH
-culture = georgian
+culture =  georgian
 religion = orthodox
 capital = "Oltu"
 trade_goods = livestock

@@ -1,7 +1,7 @@
 #2306 - Mush=
 owner = COH
 controller = COH
-culture = armenian
+culture =  georgian
 religion = orthodox
 capital = "Mus"
 trade_goods = wool

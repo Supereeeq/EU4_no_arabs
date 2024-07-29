@@ -1,7 +1,7 @@
 #1846 - Amasya=
 owner = PHY
 controller = PHY
-culture = turkish
+culture =  armenian
 religion = orthodox
 capital = "Tokat"
 trade_goods = cloth
