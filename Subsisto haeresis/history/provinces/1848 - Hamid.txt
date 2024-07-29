@@ -1,7 +1,7 @@
 #1848 - Hamid=
 owner = NIC
 controller = NIC
-culture = turkish
+culture =  anatolian
 religion = orthodox
 capital = "Burdur"
 trade_goods = grain

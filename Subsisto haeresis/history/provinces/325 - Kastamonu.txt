@@ -1,7 +1,7 @@
 #325 - Kastamonu=
 owner = TRE
 controller = TRE
-culture = turkish
+culture =  pontic_greek
 religion = orthodox
 capital = "Kastamonu"
 trade_goods = copper

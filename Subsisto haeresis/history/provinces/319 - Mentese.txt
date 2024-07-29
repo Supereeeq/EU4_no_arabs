@@ -1,7 +1,7 @@
 #319 - Mentese=
 owner = CRT
 controller = CRT
-culture = turkish
+culture =  cretan
 religion = orthodox
 capital = "Mughla"
 trade_goods = salt

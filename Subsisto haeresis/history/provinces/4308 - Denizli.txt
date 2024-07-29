@@ -1,7 +1,7 @@
 #4308 - Denizli=
 owner = NIC
 controller = NIC
-culture = turkish
+culture =  anatolian
 religion = orthodox
 capital = "Denizli"
 trade_goods = cloth

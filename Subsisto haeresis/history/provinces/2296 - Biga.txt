@@ -1,7 +1,7 @@
 #2296 - Biga=
 owner = NIC
 controller = NIC
-culture = turkish
+culture =  anatolian
 religion = orthodox
 capital = "Biga"
 trade_goods = naval_supplies

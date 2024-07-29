@@ -1,7 +1,7 @@
 #321 - Cyprus=
 owner = CRT
 controller = CRT
-culture = greek
+culture =  cretan
 religion = orthodox
 capital = "Nicosia"
 trade_goods = wine

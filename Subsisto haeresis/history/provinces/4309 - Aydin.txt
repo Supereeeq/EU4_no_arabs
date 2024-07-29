@@ -1,7 +1,7 @@
 #4309 - Aydin=
 owner = NIC
 controller = NIC
-culture = turkish
+culture =  anatolian
 religion = orthodox
 capital = "Aydin"
 trade_goods = salt #Major Ottoman Salt Work

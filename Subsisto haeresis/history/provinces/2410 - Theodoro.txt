@@ -1,7 +1,7 @@
 #2410 - Theodoro=
 owner = TRE
 controller = TRE
-culture = goths
+culture =  pontic_greek
 religion = orthodox
 hre = no
 base_tax = 3 

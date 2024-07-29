@@ -1,7 +1,7 @@
 #284 - Crimea=
 owner = TRE
 controller = TRE
-culture = crimean
+culture =  pontic_greek
 religion = orthodox
 hre = no
 base_tax = 6

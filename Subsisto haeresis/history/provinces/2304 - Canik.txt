@@ -1,7 +1,7 @@
 #2304 - Canik=
 owner = TRE
 controller = TRE
-culture = turkish
+culture =  pontic_greek
 religion = orthodox
 capital = "Samsun"
 trade_goods = wine

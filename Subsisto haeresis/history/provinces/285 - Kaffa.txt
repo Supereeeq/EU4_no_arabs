@@ -1,7 +1,7 @@
 #285 - Kaffa=
 owner = TRE
 controller = TRE 
-culture = pontic_greek
+culture =  pontic_greek
 religion = orthodox
 hre = no
 base_tax = 4

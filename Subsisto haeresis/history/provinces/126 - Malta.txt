@@ -1,7 +1,7 @@
 #126 - Malta=
 owner = CRT
 controller = CRT
-culture = maltese 
+culture =  cretan
 religion = orthodox
 hre = no 
 base_tax = 3 

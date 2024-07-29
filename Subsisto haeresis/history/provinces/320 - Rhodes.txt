@@ -1,7 +1,7 @@
 #320 - Rhodes
 owner = CRT
 controller = CRT
-culture = greek
+culture =  cretan
 religion = orthodox
 capital = "Rhodes"
 trade_goods = fish

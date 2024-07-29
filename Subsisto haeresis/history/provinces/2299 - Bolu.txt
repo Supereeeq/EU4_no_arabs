@@ -1,7 +1,7 @@
 #2299 - Bolu=
 owner = TRE
 controller = TRE
-culture = turkish
+culture =  pontic_greek
 religion = orthodox
 capital = "Bolu"
 trade_goods = fish

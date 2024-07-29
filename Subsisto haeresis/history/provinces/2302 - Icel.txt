@@ -1,7 +1,7 @@
 #2302 - Içel=
 owner = CRT
 controller = CRT
-culture = turkish
+culture =  cretan
 religion = orthodox
 capital = "Ermenek"
 trade_goods = naval_supplies

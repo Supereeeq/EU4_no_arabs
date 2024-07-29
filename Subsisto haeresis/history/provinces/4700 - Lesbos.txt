@@ -1,7 +1,7 @@
 #2348 - Chios=
 owner = NIC
 controller = NIC
-culture = greek
+culture =  anatolian
 religion = orthodox
 capital = "Mytilene"
 trade_goods = fish
