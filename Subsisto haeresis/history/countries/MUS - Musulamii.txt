@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
-
-primary_culture = cosmopolitan_french
+technology_group = muslim
+primary_culture = south_berber
+add_accepted_culture = maghrebi_berber
+add_accepted_culture = north_berber
 religion = jerusalem
-technology_group = ottoman
 capital = 350

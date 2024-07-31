@@ -1,7 +1,9 @@
 government = monarchy
 add_government_reform = feudalism_reform
 
-primary_culture = cosmopolitan_french
+primary_culture = castillian
+add_accepted_culture = andalucian
+add_accepted_culture = leonese
 religion = jerusalem
-technology_group = eastern
+technology_group = western
 capital = 217
