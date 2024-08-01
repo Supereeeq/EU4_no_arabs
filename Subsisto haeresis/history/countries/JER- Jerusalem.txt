@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
-
-primary_culture = cosmopolitan_french
+primary_culture = Judean
+add_accepted_culture = Galilean
+add_accepted_culture = Antiochian
 religion = jerusalem
 technology_group = eastern
 capital = 379	# Jerusalem

@@ -1,5 +1,5 @@
 government = monarchy
-technology_group = ottoman
-primary_culture = al_iraqiya_arabic
+technology_group = muslim
+primary_culture = assyrian_culture
 capital = 	410
 religion = assyrian

@@ -1,7 +1,6 @@
 government = monarchy
-add_government_reform = feudalism_reform
-
-primary_culture = cosmopolitan_french
+primary_culture = persian
+add_accepted_culture = persian_yemeni
 religion = zoroastrian
-technology_group = ottoman
+technology_group = muslim 
 capital = 428
