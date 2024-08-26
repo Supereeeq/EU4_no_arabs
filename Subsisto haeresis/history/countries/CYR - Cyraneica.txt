@@ -5,3 +5,12 @@ primary_culture = old_roman
 religion = jerusalem
 technology_group = muslim
 capital = 356	# Jerusalem
+1429.6.4 = {
+	monarch = {
+		name = "Julianus Cloelius"
+		dynasty = "Verus"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+}

@@ -3,3 +3,13 @@ primary_culture = bedouin_arabic
 religion = jerusalem
 technology_group = muslim
 capital = 2337
+
+1429.6.4 = {
+	monarch = {
+		name = "Karif"
+		dynasty = "Shams"
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}

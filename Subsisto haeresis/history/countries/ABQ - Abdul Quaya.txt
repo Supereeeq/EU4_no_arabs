@@ -4,3 +4,13 @@ add_accepted_culture = persian
 religion = zoroastrian
 technology_group = muslim 
 capital = 395
+
+1429.6.4 = {
+	monarch = {
+		name = "Makin"
+		dynasty = "Mina"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+}

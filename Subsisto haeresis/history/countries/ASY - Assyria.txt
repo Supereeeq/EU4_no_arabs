@@ -3,3 +3,13 @@ technology_group = muslim
 primary_culture = assyrian_culture
 capital = 	410
 religion = assyrian
+
+1429.6.4 = {
+	monarch = {
+		name = "Ishme"
+		dynasty = "Dagan"
+		dip = 1
+		adm = 3
+		mil = 3
+	}
+}

@@ -4,3 +4,13 @@ add_accepted_culture = persian
 religion = zoroastrian
 technology_group = muslim 
 capital = 400
+
+1429.6.4 = {
+	monarch = {
+		name = "Pouria"
+		dynasty = "Bahreini"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}

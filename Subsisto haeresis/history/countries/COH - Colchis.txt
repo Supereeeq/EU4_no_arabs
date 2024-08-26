@@ -5,3 +5,12 @@ religion = orthodox
 technology_group = eastern
 capital = 330
 add_historical_friend = TRE
+1429.6.4 = {
+	monarch = {
+		name = "Karekin"
+		dynasty = "Zornakyan"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
