@@ -5,3 +5,12 @@ primary_culture = anatolian
 religion = orthodox
 technology_group = eastern
 capital = 318
+1429.6.4 = {
+	monarch = {
+		name = "Chirstoforos"
+		dynasty = "Glariades"
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}

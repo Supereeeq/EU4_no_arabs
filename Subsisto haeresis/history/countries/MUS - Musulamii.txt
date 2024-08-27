@@ -6,3 +6,12 @@ add_accepted_culture = maghrebi_berber
 add_accepted_culture = north_berber
 religion = jerusalem
 capital = 350
+1429.6.4 = {
+	monarch = {
+		name = "Wasim"
+		dynasty = "Aly"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}

@@ -5,3 +5,12 @@ add_accepted_culture = nubian
 religion = jerusalem
 technology_group = muslim
 capital = 359
+1429.6.4 = {
+	monarch = {
+		name = "Tahir"
+		dynasty = "Dau"
+		dip = 2
+		adm = 1
+		mil = 1
+	}
+}

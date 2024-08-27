@@ -6,3 +6,12 @@ add_accepted_culture = Antiochian
 religion = jerusalem
 technology_group = eastern
 capital = 379	# Jerusalem
+1429.6.4 = {
+	monarch = {
+		name = "Baldwin"
+		dynasty = "Almaric"
+		dip = 3
+		adm = 3
+		mil = 2
+	}
+}

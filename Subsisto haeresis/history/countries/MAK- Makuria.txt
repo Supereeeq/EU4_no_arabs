@@ -5,3 +5,12 @@ add_accepted_culture = nubian_egyptian
 religion = jerusalem
 technology_group = muslim
 capital = 4319	# Jerusalem
+1429.6.4 = {
+	monarch = {
+		name = "Khalid"
+		dynasty = "Amanikash"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}

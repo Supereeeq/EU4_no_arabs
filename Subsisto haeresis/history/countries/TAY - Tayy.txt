@@ -3,3 +3,12 @@ primary_culture = bedouin_arabic
 religion = jerusalem
 technology_group = muslim
 capital = 383
+1429.6.4 = {
+	monarch = {
+		name = "Utba"
+		dynasty = "Sabir"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}

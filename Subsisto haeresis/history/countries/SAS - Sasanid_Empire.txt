@@ -4,3 +4,12 @@ add_accepted_culture = persian_yemeni
 religion = zoroastrian
 technology_group = muslim 
 capital = 428
+1429.6.4 = {
+	monarch = {
+		name = "Amir"
+		dynasty = "Tajik"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+}

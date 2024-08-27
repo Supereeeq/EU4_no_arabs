@@ -3,3 +3,12 @@ technology_group = ottoman
 religion = jerusalem
 primary_culture = kurdish
 capital = 	411	 #Mosul
+1429.6.4 = {
+	monarch = {
+		name = "Soran"
+		dynasty = "Dilshad"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}

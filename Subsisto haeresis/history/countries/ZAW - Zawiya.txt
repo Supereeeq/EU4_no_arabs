@@ -6,3 +6,12 @@ add_accepted_culture = north_berber
 add_accepted_culture = south_berber
 religion = jerusalem
 capital = 346
+1429.6.4 = {
+	monarch = {
+		name = "Yanis"
+		dynasty = "Amzwar"
+		dip = 1
+		adm = 1
+		mil = 2
+	} 
+}

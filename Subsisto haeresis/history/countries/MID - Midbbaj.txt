@@ -3,3 +3,12 @@ primary_culture = bedouin_arabic
 religion = jerusalem
 technology_group = muslim
 capital = 391
+1429.6.4 = {
+	monarch = {
+		name = "Tehreem"
+		dynasty = "Samra"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}

@@ -3,3 +3,12 @@ primary_culture = bedouin_arabic
 religion = jerusalem
 technology_group = muslim
 capital = 2332
+1429.6.4 = {
+	monarch = {
+		name = "Zaki"
+		dynasty = "Sadri"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+}

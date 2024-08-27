@@ -6,3 +6,12 @@ add_accepted_culture = maghrebi_berber
 add_accepted_culture = south_berber
 religion = jerusalem
 capital = 341
+1429.6.4 = {
+	monarch = {
+		name = "Tarek"
+		dynasty = "Masin"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}

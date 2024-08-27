@@ -7,3 +7,12 @@ add_accepted_culture = leonese
 religion = jerusalem
 technology_group = western
 capital = 217
+1429.6.4 = {
+	monarch = {
+		name = "Herminio"
+		dynasty = "Carcamo"
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
