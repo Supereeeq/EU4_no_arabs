@@ -1,6 +1,6 @@
 #2331 - Jeddah=
-owner = KHU
-controller = KHU
+owner = MDN
+controller = MDN
 culture = hejazi_culture
 religion = jerusalem
 capital = "Jiddah"
