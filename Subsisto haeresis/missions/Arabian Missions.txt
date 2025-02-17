@@ -1,0 +1,237 @@
+arabian_missions = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = MDN
+	}
+	has_country_shield = no
+
+	arabia_western_conqest = {
+		icon = mission_conc_east_arabia
+		required_missions = { }
+		trigger = {
+			is_subject = no
+			owns = 385
+			owns = 2331
+			owns = 2332
+			owns = 4277
+			owns = 4278
+			owns = 384
+			owns = 2329
+			owns = 2330
+			owns = 383
+			owns = 2328
+			owns = 4268
+			owns = 4269
+			owns = 386
+			owns = 391
+			owns = 383
+			owns = 2328
+			is_at_war = no
+		}
+		effect = {
+			mecca_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			medina_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			tabuk_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}		
+			asir_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	arabia_central_conqest = {
+		icon = mission_conc_centr_arabia
+		required_missions = {
+			arabia_western_conqest 
+		}
+		trigger = {
+			is_subject = no
+			owns = 2338
+			owns = 393
+			owns = 4272
+			owns = 2337
+			owns = 392
+			owns = 4273
+			owns = 4274
+			owns = 2335
+			owns = 2336
+			owns = 2339
+			owns = 4275
+			is_at_war = no
+		}
+		effect = {
+			nafud_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			qasim_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			yamamah_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	arabia_southern_conqest = {
+		icon = mission_conc_south_arabia
+		required_missions = {
+			arabia_central_conqest 
+		}
+		trigger = {
+			is_subject = no
+			is_at_war = no
+			owns = 2343
+			owns = 4283
+			owns = 2344
+			owns = 402
+			owns = 4284
+			owns = 401
+			owns = 2342
+		}
+		effect = {
+			hadramut_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mahra_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			dhofar_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	arabia_kingdom_arabia = {
+		icon = mission_conc_kingdom_arabia
+		required_missions = {
+			arabia_southern_conqest 
+		}
+		trigger = {
+			is_subject = no
+			owns = 387
+			owns = 2346
+			owns = 4279		
+			owns = 390
+			owns = 4281
+			owns = 4282	
+			owns = 388		
+			owns = 2345
+			owns = 4280
+			owns = 389	
+			owns = 399		
+			owns = 400
+			owns = 4286
+			owns = 2341	
+			owns = 403
+			owns = 4285
+			owns = 4287	
+			owns = 397	
+			owns = 398
+			owns = 404
+			owns = 2333	
+			owns = 394	
+			owns = 395	
+			owns = 396
+			owns = 2340
+			owns = 2347	
+			is_at_war = no
+		}
+		effect = {
+                   change_tag = KOA
+			tihama_al_yemen_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			upper_yemen_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			yemen_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mascat_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			oman_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			pirate_coast_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			bahrain_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+}

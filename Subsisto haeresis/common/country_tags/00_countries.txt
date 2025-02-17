@@ -1,4 +1,5 @@
 #Modded countries
+KOA = "countries/Kingdom of Arabia.txt"
 KRD = "countries/Kurdistan.txt"
 JER = "countries/Jerusalem.txt"
 ASY = "countries/Assyria.txt"

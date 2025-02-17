@@ -1,0 +1,5 @@
+government = monarchy
+primary_culture = bedouin_arabic
+religion = jerusalem
+technology_group = muslim
+capital = 384

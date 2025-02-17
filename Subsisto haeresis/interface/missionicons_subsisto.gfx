@@ -1,0 +1,21 @@
+	### Subsisto Haeresis Icons ###
+
+spriteTypes = {
+
+	spriteType = {
+		name = "mission_conc_east_arabia"
+		texturefile = "gfx/interface/missions/mission_conc_east_arabia.dds"
+	}
+	spriteType = {
+		name = "mission_conc_centr_arabia"
+		texturefile = "gfx/interface/missions/mission_conc_centr_arabia.dds"
+	}
+	spriteType = {
+		name = "mission_conc_south_arabia"
+		texturefile = "gfx/interface/missions/mission_conc_south_arabia.dds"
+	}
+	spriteType = {
+		name = "mission_conc_kingdom_arabia"
+		texturefile = "gfx/interface/missions/mission_conc_kingdom_arabia.dds"
+	}
+}

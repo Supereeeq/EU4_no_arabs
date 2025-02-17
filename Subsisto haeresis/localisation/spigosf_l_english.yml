@@ -299,7 +299,14 @@
     ZAW_ideas: "Zawiyan Ideals"
     ZAW_ideas_start: "Zawiyan Customs"
     ZAW_desc: "Zawiya is berber country located in region of Maghreb"
-
+                
+    
+    KOA: "Kingdom of Arabia"
+    KOA_ADJ: "Arabian"
+     
+    KOA_ideas: "Arabian Ideals"
+    KOA_ideas_start: "Arabian Customs"
+    KOA_desc: "One powerfull kingdom made of united arabian tribes"
 
 
     ### Religion 
@@ -322,3 +329,4 @@
     assyrian_culture: "Assyrian"
     anatolian: "Nicean"
     cretan: "Cretan"
+
