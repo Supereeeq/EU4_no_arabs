@@ -32,21 +32,28 @@ historical_units = {
 	napoleonic_lancers
 }
 
-monarch_names = {
-	"Godfrey #1" = 60
-	"Baldwin #5" = 60
-	"Henry #2" = 40
-	"Amalric #2" = 30
-	"John #2" = 10
-	"Fulk #1" = 10
-	"Conrad #3" = 10
-	"Sibylla #1" = -5
-	"Isabella #2" = -10
-	"Melisende #1" = -5
-	"Maria #1" = -5
-	"Guy #1" = 5
-	"Hugues #1" = 5
+
+ship_names = {
+	"The Nile Cross"
+	"Shield of Thebes"
+	"Sun of Dongola"
+	"Guardian of Pachoras"
+	"Scepter of Christ"
+	"Thunder of Kush"
+	"The Ever Faithful"
+	"Light of the South"
+	"Protector of Nubia"
+	"Ark of the Covenant"
+	"Wrath of Raphael"
+	"Sword of St. Mark"
+	"Theban Lion"
+	"Golden Crown of Meroë"
+	"The Alexandrian Flame"
+	"Divine Spear of Moses"
+	"Defender of the Kingdom"
+	"The Unbroken"
 }
+
 
 ship_names = {
 	"The Holy Cross"
@@ -70,19 +77,22 @@ ship_names = {
 }
 
 leader_names = { 
-	Bragadin 
-	Crispo
-	Doria	
-	Fadrigue
-	Lusignans
-	Melissinos 
-	Plethon
-	Rendis
-	Saraceno 
-	Tocco
-	Maxwell
-	Duncan Douglas Selkirk
-	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
-	"de La Barthe" "de La Ferrandie" "de La Galissoničre" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
-	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+	Silko  
+	Merkurios  
+	Zacharias  
+	Georgios  
+	Raphael  
+	Athanasius  
+	Yeshuayeb  
+	Stephanos  
+	Philotheos  
+	Kyrillos  
+	Makarios  
+	Theodosius  
+	Gabriel  
+	Yohannes  
+	Severus  
+	"of Dongola" "of Pachoras" "of Napata" "of Meroë" "of Syene"
+	"Kashta" "Petros" "Melchizedek" "Tewodros" "Abraam"
+	"Makurian" "Kushite" "Theban" "Alexandrian" "Blemmyan"
 }

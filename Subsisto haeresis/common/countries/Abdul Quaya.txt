@@ -33,56 +33,72 @@ historical_units = {
 }
 
 monarch_names = {
-	"Godfrey #1" = 60
-	"Baldwin #5" = 60
-	"Henry #2" = 40
-	"Amalric #2" = 30
-	"John #2" = 10
-	"Fulk #1" = 10
-	"Conrad #3" = 10
-	"Sibylla #1" = -5
-	"Isabella #2" = -10
-	"Melisende #1" = -5
-	"Maria #1" = -5
-	"Guy #1" = 5
-	"Hugues #1" = 5
+	"Shapur #1" = 60
+	"Ardashir #2" = 60
+	"Khosrow #2" = 40
+	"Imru al-Qays #1" = 40
+	"Peroz #1" = 30
+	"Al-Harith #2" = 30
+	"Hormizd #3" = 10
+	"Jabala #3" = 10
+	"Bahram #1" = 10
+	"Zayd #1" = 10
+	"Shammar #1" = -5
+	"Yazdegerd #1" = -5
+	"Malik #2" = -10
+	"Anoshazad #2" = -10
+	"Vinduyih #1" = -5
+	"Ma‘ad #1" = -5
+	"Gushnasp #1" = 5
+	"Tasm #1" = 5
 }
 
 ship_names = {
-	"The Holy Cross"
-	"The Grail"
-	"The Faithful"
-	"Hammer of God"
-	"True Believer"
-	"The Cleansing"
-	"Baldwin's Gate"
-	"The Rapture"
-	"God Will Know His Own"
-	Paladin
-	Purifier
-	Crusader
-	Guardian
-	Pilgrim
-	Absolution
-	Avenger
-	Vindicator
-	"The Scourge"
+	"The Faravahar"
+	"The Sacred Fire"
+	"The Crescent Moon"
+	"The Azure Dawn"
+	"The Sun of Saba"
+	"Wings of Ahura Mazda"
+	"Sword of Atar"
+	"The Immortal Guard"
+	"Khosrow’s Wrath"
+	"Al-Harith’s Spear"
+	"The Ever Victorious"
+	"Shapur’s Thunder"
+	"Storm of Ctesiphon"
+	"The Eastern Star"
+	"The Fire of Sheba"
+	"Shield of the Empire"
+	"The Divine Order"
+	"Light of Anahita"
+	"Pearl of the Deep"
+	"Thunder of the South"
 }
 
 leader_names = { 
-	Bragadin 
-	Crispo
-	Doria	
-	Fadrigue
-	Lusignans
-	Melissinos 
-	Plethon
-	Rendis
-	Saraceno 
-	Tocco
-	Maxwell
-	Duncan Douglas Selkirk
-	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
-	"de La Barthe" "de La Ferrandie" "de La Galissoničre" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
-	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+	Suren  
+	Alqama  
+	Mehran  
+	Shahpur  
+	Farrokh  
+	Zaydun  
+	Dhun-Nuwas  
+	Kavadh  
+	Gondophares  
+	Iyas  
+	Tadmur  
+	Azarmidokht  
+	Perozhormizd  
+	Borandukht  
+	Rostam  
+	Vinduyih  
+	Adurfarrobay  
+	Shahmard  
+	Al-Mundhir  
+	Barraq  
+	"bin Adi" "bin Lakhm" "bin Ma‘ad" "bin Himyar"
+	"Karen" "Kanarang" "Aspahbadh" "Mihran" "Ispahbudhan"
+	"al-Tanukh" "al-Quda'a" "al-Hadrami" "al-Sulayhi"
+	"Surena" "Shahrbaraz" "Sukhra" "Zik" "Zadspram"
 }

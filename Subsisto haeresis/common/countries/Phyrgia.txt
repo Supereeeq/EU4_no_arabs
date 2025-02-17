@@ -34,56 +34,57 @@ historical_units = {
 }
 
 monarch_names = {
-	"Godfrey #1" = 60
-	"Baldwin #5" = 60
-	"Henry #2" = 40
-	"Amalric #2" = 30
-	"John #2" = 10
-	"Fulk #1" = 10
-	"Conrad #3" = 10
-	"Sibylla #1" = -5
-	"Isabella #2" = -10
-	"Melisende #1" = -5
-	"Maria #1" = -5
-	"Guy #1" = 5
-	"Hugues #1" = 5
+	"Tigranes #2" = 60
+	"Aram #1" = 60
+	"Artaxias #1" = 40
+	"Vagharshak #1" = 40
+	"Vartan #1" = 30
+	"Pap #1" = 30
+	"Levon #2" = 10
+	"Ruben #3" = 10
+	"Heraclius #1" = 10
+	"Zeno
 }
 
 ship_names = {
-	"The Holy Cross"
-	"The Grail"
-	"The Faithful"
-	"Hammer of God"
-	"True Believer"
-	"The Cleansing"
-	"Baldwin's Gate"
-	"The Rapture"
-	"God Will Know His Own"
-	Paladin
-	Purifier
-	Crusader
-	Guardian
-	Pilgrim
-	Absolution
-	Avenger
-	Vindicator
-	"The Scourge"
+	"Guardian of Ararat"
+	"Thunder of Tigranocerta"
+	"Sword of Hayk"
+	"The Eternal Kingdom"
+	"Shield of Vartan"
+	"Warrior of Artaxata"
+	"Faith of St. Gregory"
+	"Protector of Mount Ararat"
+	"Light of the Church"
+	"Victory of Vahan"
+	"Legacy of Tigranes"
+	"Divine Justice"
+	"The Unyielding Fortress"
+	"Fury of the Highlands"
+	"Fire of the Highlands"
+	"Cross of Armenia"
+	"Son of Hayk"
 }
 
+
 leader_names = { 
-	Bragadin 
-	Crispo
-	Doria	
-	Fadrigue
-	Lusignans
-	Melissinos 
-	Plethon
-	Rendis
-	Saraceno 
-	Tocco
-	Maxwell
-	Duncan Douglas Selkirk
-	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
-	"de La Barthe" "de La Ferrandie" "de La Galissoničre" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
-	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+	Tigranes  
+	Aram  
+	Artaxias  
+	Vagharshak  
+	Vartan  
+	Levon  
+	Ruben  
+	Heraclius  
+	Zeno  
+	Ashot  
+	Yervand  
+	Sargis  
+	Khachik  
+	Sahak  
+	David  
+	"of Syunik" "of Artsakh" "of Khor Virap" "of the Cilician Kingdom" "of Erebuni"
+	"Yerevan" "Kars" "Vaspurakan" "Tigranocerta" "Artaxata"
+	"Bagratid" "Ardashes" "Pahlavuni" "Mamikonian" "Syunik"
 }
+

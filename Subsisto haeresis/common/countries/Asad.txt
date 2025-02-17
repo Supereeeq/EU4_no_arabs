@@ -48,41 +48,61 @@ monarch_names = {
 	"Hugues #1" = 5
 }
 
-ship_names = {
-	"The Holy Cross"
-	"The Grail"
-	"The Faithful"
-	"Hammer of God"
-	"True Believer"
-	"The Cleansing"
-	"Baldwin's Gate"
-	"The Rapture"
-	"God Will Know His Own"
-	Paladin
-	Purifier
-	Crusader
-	Guardian
-	Pilgrim
-	Absolution
-	Avenger
-	Vindicator
-	"The Scourge"
+monarch_names = {
+	"Imru al-Qays #1" = 60
+	"Amr #3" = 60
+	"Al-Harith #2" = 40
+	"Abu Karib #1" = 30
+	"Yazdegerd #2" = 10
+	"Zayd #1" = 10
+	"Jabala #3" = 10
+	"Shammar #1" = -5
+	"Malik #2" = -10
+	"Dhū Yazan #1" = -5
+	"Ma‘ad #1" = -5
+	"Qaysar #1" = 5
+	"Tasm #1" = 5
 }
 
+
+ship_names = {
+	"The Crescent Moon"
+	"The Azure Dawn"
+	"The Sun of Saba"
+	"Sword of the Heavens"
+	"The Unconquered"
+	"Thunder of the South"
+	"Al-Harith’s Spear"
+	"The Eastern Star"
+	"The Ever Victorious"
+	"Desert Falcon"
+	"Pearl of the Deep"
+	"Storm of the Dunes"
+	"Sirocco"
+	"Qaysar’s Will"
+	"The Horizon’s Edge"
+	"Shield of the Gods"
+	"The Fire of Sheba"
+}
+
+
 leader_names = { 
-	Bragadin 
-	Crispo
-	Doria	
-	Fadrigue
-	Lusignans
-	Melissinos 
-	Plethon
-	Rendis
-	Saraceno 
-	Tocco
-	Maxwell
-	Duncan Douglas Selkirk
-	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
-	"de La Barthe" "de La Ferrandie" "de La Galissoničre" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
-	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+	Alqama
+	Zaydun
+	Shamsaddin
+	Madhi
+	Dhun-Nuwas
+	Rabi'a	
+	Tadmur
+	Al-Mundhir
+	Atarqurrah
+	Iyas
+	Taym  
+	Nashwan  
+	Abu Zayd  
+	Barraq  
+	Al-Jassas  
+	"bin Adi" "bin Lakhm" "bin Jafna" "bin Ma‘ad" "bin Himyar"
+	"al-Tanukh" "al-Quda'a" "al-Hadrami" "al-Sulayhi"
+	"al-Saba'i" "al-Nabati" "al-Kindah" "al-Khurasani"
 }

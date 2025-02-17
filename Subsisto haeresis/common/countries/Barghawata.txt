@@ -32,57 +32,65 @@ historical_units = {
 	napoleonic_lancers
 }
 
+
 monarch_names = {
-	"Godfrey #1" = 60
-	"Baldwin #5" = 60
-	"Henry #2" = 40
-	"Amalric #2" = 30
-	"John #2" = 10
-	"Fulk #1" = 10
-	"Conrad #3" = 10
-	"Sibylla #1" = -5
-	"Isabella #2" = -10
-	"Melisende #1" = -5
-	"Maria #1" = -5
-	"Guy #1" = 5
-	"Hugues #1" = 5
+	"Massinissa #1" = 60
+	"Jugurtha #2" = 60
+	"Juba #3" = 40
+	"Takfarinas #1" = 40
+	"Firmus #1" = 30
+	"Antalas #1" = 30
+	"Koceila #1" = 10
+	"Vaballathus #2" = 10
+	"Dihya #3" = 10
+	"Gaïa #1" = 10
+	"Aksel #2" = -5
+	"Abdelmelik #1" = -10
+	"Ziri #1" = -5
+	"Tabat #1" = -5
+	"Amastan #1" = 5
+	"Tariq #1" = 5
 }
 
+
 ship_names = {
-	"The Holy Cross"
-	"The Grail"
-	"The Faithful"
-	"Hammer of God"
-	"True Believer"
-	"The Cleansing"
-	"Baldwin's Gate"
-	"The Rapture"
-	"God Will Know His Own"
-	Paladin
-	Purifier
-	Crusader
-	Guardian
-	Pilgrim
-	Absolution
-	Avenger
-	Vindicator
-	"The Scourge"
+	"Wrath of Numidia"
+	"Eagle of the Desert"
+	"Thunder of the Aurès"
+	"Shield of the Atlas"
+	"Spear of Jugurtha"
+	"The Invincible Amazigh"
+	"Storm of the Sahara"
+	"Takfarinas' Revenge"
+	"Guardian of Icosium"
+	"Fire of Dihya"
+	"Legacy of Massinissa"
+	"Protector of the Maghreb"
+	"Sun of Carthage"
+	"Warrior of Cirta"
+	"The Ever Victorious"
+	"Sword of the Free People"
+	"Indomitable Kabylia"
+	"The Eternal Horizon"
 }
 
 leader_names = { 
-	Bragadin 
-	Crispo
-	Doria	
-	Fadrigue
-	Lusignans
-	Melissinos 
-	Plethon
-	Rendis
-	Saraceno 
-	Tocco
-	Maxwell
-	Duncan Douglas Selkirk
-	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
-	"de La Barthe" "de La Ferrandie" "de La Galissoničre" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
-	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+	Massinissa  
+	Jugurtha  
+	Juba  
+	Takfarinas  
+	Firmus  
+	Aksel  
+	Dihya  
+	Koceila  
+	Tabat  
+	Amastan  
+	Vaballathus  
+	Antalas  
+	Abdelmelik  
+	Ziri  
+	Tariq  
+	"of Numidia" "of Mauretania" "of the Aurès" "of Kabylia" "of the Atlas"
+	"Gaïa" "Ifran" "Mozab" "Garmul" "Casthen"
+	"Zanata" "Nafza" "Masmuda" "Hawwara" "Sanhaja"
 }
