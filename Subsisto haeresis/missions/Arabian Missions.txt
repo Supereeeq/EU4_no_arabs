@@ -3,7 +3,15 @@ arabian_missions = {
 	generic = no
 	ai = yes
 	potential = {
-		tag = MDN
+		OR = { 
+			tag = MDN
+			tag = JUD
+			tag = BAI
+			tag = HUD
+			tag = THQ
+			tag = HAZ
+			tag = MID
+		}
 	}
 	has_country_shield = no
 
