@@ -1,0 +1,19 @@
+country_event = {
+	namespace = subshaer_legacy_of_muhammad_namespace
+	id = subshaer_legacy_of_muhammad_namespace.1
+	title = "subshaer_legacy_of_muhammad_1_title"
+	desc = "subshaer_legacy_of_muhammad_1_desc"
+	picture = ANGRY_MOB_eventPicture
+	fire_only_once = yes
+	trigger = {
+		date = 1444.11.12
+		tag = MDN
+	}
+	option = {
+		name = "subshaer_legacy_of_muhammad_1_opcja_1"
+	}
+	option = {
+		name = "subshaer_legacy_of_muhammad_1_opcja_2"
+	}
+	
+}
